@@ -1,0 +1,1501 @@
+student_id,school_level,program_interest,learning_channel,total_study_hours,logic_score,debugging_score,practice_hours_per_week,question_asked_count,student_progress_status,final_project_rating
+STU0001,12,Data Science,Peer Study Group,115,78.0,52.0,5.0,30,On Track,65.0
+STU0002,12,Web Development,FD Code Academy Offline Class,114,86.0,86.0,5.5,19,On Track,78.0
+STU0003,8,Python Foundation,FD Code Academy Offline Class,175,91.0,88.0,8.2,27,High Performer,88.0
+STU0004,10,Python Foundation,YouTube Video Tutorial,40,56.0,57.0,2.5,3,Needs Support,45.0
+STU0005,6,Competitive Programming,AI-Assisted Learning,88,63.0,48.0,3.8,1,Needs Support,70.0
+STU0006,8,Linux,YouTube Video Tutorial,144,75.0,63.0,5.9,3,On Track,62.0
+STU0007,11,Olympiad,AI-Assisted Learning,182,85.0,65.0,11.2,7,On Track,87.3
+STU0008,10,Web Development,FD Code Academy Online Class,235,96.0,100.0,8.3,38,High Performer,86.0
+STU0009,11,Data Science,Peer Study Group,70,55.0,44.0,2.8,12,Needs Support,50.0
+STU0010,10,AI & Machine Learning,YouTube Video Tutorial,19,48.0,48.0,1.4,2,Needs Support,45.0
+STU0011,11,Data Science,Peer Study Group,92,73.0,80.0,4.8,28,On Track,65.0
+STU0012,12,University Preparation,FD Code Academy Offline Class,239,94.0,88.0,9.2,21,High Performer,88.0
+STU0013,7,Database,FD Code Academy Offline Class,144,80.0,85.0,5.9,26,On Track,78.0
+STU0014,10,Linux,FD Code Academy Online Class,149,68.0,77.0,8.9,19,On Track,75.0
+STU0015,11,Data Science,Peer Study Group,76,56.0,43.0,2.6,11,Needs Support,50.0
+STU0016,8,Python Foundation,FD Code Academy Online Class,75,81.0,77.0,4.0,11,On Track,75.0
+STU0017,9,Python Foundation,FD Code Academy Offline Class,114,86.0,87.0,5.2,31,On Track,78.0
+STU0018,7,Competitive Programming,FD Code Academy Offline Class,121,77.0,86.0,4.7,31,On Track,78.0
+STU0545,12,Web Development,FD Code Academy Offline Class,340,94.0,93.0,11.8,52,High Performer,88.0
+STU0020,Gap Year,University Preparation,YouTube Video Tutorial,32,53.0,39.0,1.6,4,Needs Support,45.0
+STU0021,12,Cyber Security,AI-Assisted Learning,81,57.0,53.0,3.9,5,Needs Support,70.0
+STU0022,12,Data Science,FD Code Academy Offline Class,340,100.0,99.0,13.1,37,High Performer,97.1
+STU0023,9,Linux,FD Code Academy Online Class,254,89.0,88.0,10.7,16,High Performer,86.0
+STU0024,12,Web Development,FD Code Academy Offline Class,319,85.0,96.0,12.6,28,High Performer,91.5
+STU0025,8,Python Foundation,FD Code Academy Offline Class,182,91.0,87.0,8.7,46,High Performer,88.0
+STU0026,11,University Preparation,AI-Assisted Learning,77,60.0,68.0,4.7,7,On Track,78.0
+STU1155,9,Database,YouTube Video Tutorial,5,40.0,46.0,0.4,0,Needs Support,45.0
+STU0028,12,Cyber Security,FD Code Academy Online Class,290,93.0,100.0,10.1,15,High Performer,86.0
+STU0029,12,Web Development,AI-Assisted Learning,92,39.0,67.0,2.9,0,Needs Support,70.0
+STU0030,12,AI & Machine Learning,Peer Study Group,44,54.0,46.0,2.6,26,Needs Support,50.0
+STU0031,7,Python Foundation,FD Code Academy Offline Class,182,64.0,72.0,8.1,25,On Track,78.0
+STU0032,12,Web Development,YouTube Video Tutorial,74,79.0,57.0,4.0,2,On Track,62.0
+STU0033,11,Database,FD Code Academy Offline Class,130,77.0,77.0,6.9,24,On Track,78.0
+STU0034,10,Linux,FD Code Academy Online Class,214,85.0,92.0,10.7,29,High Performer,86.0
+STU0035,8,Web Development,AI-Assisted Learning,98,47.0,53.0,4.5,3,Needs Support,70.0
+STU0036,9,Database,YouTube Video Tutorial,34,38.0,36.0,1.6,4,Needs Support,45.0
+STU0037,7,Web Development,YouTube Video Tutorial,102,59.0,68.0,3.9,10,On Track,62.0
+STU0038,10,AI & Machine Learning,AI-Assisted Learning,340,90.0,90.0,18.1,12,High Performer,100.0
+STU0039,10,Web Development,YouTube Video Tutorial,110,78.0,58.0,4.3,6,On Track,62.0
+STU0040,7,Python Foundation,FD Code Academy Offline Class,153,69.0,,7.6,26,On Track,78.0
+STU0041,Gap Year,AI & Machine Learning,YouTube Video Tutorial,36,58.0,52.0,0.8,1,Needs Support,45.0
+STU0042,9,AI & Machine Learning,FD Code Academy Offline Class,336,94.0,95.0,9.8,54,High Performer,90.2
+STU0043,8,Linux,FD Code Academy Offline Class,340,86.0,89.0,13.7,39,High Performer,89.3
+STU0044,10,Python Foundation,Peer Study Group,52,65.0,48.0,3.0,47,On Track,65.0
+STU0045,Gap Year,Linux,FD Code Academy Online Class,216,97.0,90.0,8.0,13,High Performer,86.0
+STU1075,6,Python Foundation,AI-Assisted Learning,219,79.0,79.0,16.6,15,High Performer,90.4
+STU0047,Gap Year,Data Science,AI-Assisted Learning,116,85.0,59.0,5.5,1,On Track,78.0
+STU0048,8,Python Foundation,AI-Assisted Learning,84,52.0,79.0,4.6,5,On Track,78.0
+STU0049,11,Data Science,FD Code Academy Online Class,66,79.0,72.0,4.2,8,On Track,75.0
+STU0050,12,University Preparation,Peer Study Group,48,44.0,47.0,2.4,23,Needs Support,50.0
+STU0051,11,Olympiad,FD Code Academy Offline Class,188,78.0,79.0,9.2,13,On Track,78.0
+STU0052,11,University Preparation,FD Code Academy Online Class,187,83.0,100.0,9.3,20,High Performer,86.0
+STU0053,11,Competitive Programming,FD Code Academy Online Class,156,80.0,78.0,7.0,15,On Track,75.0
+STU0054,12,Web Development,AI-Assisted Learning,83,61.0,65.0,4.7,8,On Track,78.0
+STU0055,11,Cyber Security,FD Code Academy Online Class,122,73.0,77.0,4.5,16,On Track,75.0
+STU0056,12,Cyber Security,AI-Assisted Learning,340,85.0,94.0,15.9,13,High Performer,92.8
+STU0057,11,Web Development,FD Code Academy Offline Class,340,99.0,88.0,12.9,20,High Performer,88.0
+STU0058,10,Data Science,Peer Study Group,90,84.0,64.0,5.3,38,On Track,65.0
+STU0059,8,Web Development,FD Code Academy Online Class,107,79.0,71.0,4.0,15,On Track,75.0
+STU0060,12,AI & Machine Learning,FD Code Academy Online Class,121,89.0,,7.2,23,On Track,75.0
+STU0061,11,Web Development,FD Code Academy Online Class,165,85.0,86.0,7.3,33,High Performer,86.0
+STU0062,8,Python Foundation,FD Code Academy Online Class,111,71.0,66.0,7.3,14,On Track,75.0
+STU0063,12,Linux,Peer Study Group,208,75.0,96.0,10.5,33,High Performer,82.0
+STU0064,8,Database,AI-Assisted Learning,92,53.0,67.0,4.7,11,On Track,78.0
+STU0065,9,Competitive Programming,FD Code Academy Offline Class,285,75.0,83.0,8.6,35,On Track,78.0
+STU0066,9,Python Foundation,YouTube Video Tutorial,48,29.0,40.0,2.4,6,Needs Support,45.0
+STU0067,Gap Year,AI & Machine Learning,YouTube Video Tutorial,295,86.0,91.0,11.1,10,High Performer,82.0
+STU0068,10,Database,FD Code Academy Offline Class,340,100.0,96.0,13.8,52,High Performer,93.9
+STU0069,11,AI & Machine Learning,Peer Study Group,69,77.0,69.0,2.4,19,On Track,65.0
+STU0070,11,AI & Machine Learning,Peer Study Group,340,,72.0,13.3,22,High Performer,82.0
+STU0071,8,Olympiad,AI-Assisted Learning,143,80.0,74.0,7.5,0,On Track,78.0
+STU0072,Gap Year,Data Science,FD Code Academy Offline Class,151,87.0,77.0,8.7,18,On Track,78.0
+STU0073,8,Linux,Peer Study Group,152,76.0,71.0,6.9,46,On Track,65.0
+STU0074,10,Competitive Programming,AI-Assisted Learning,288,95.0,97.0,11.2,2,High Performer,90.0
+STU0075,9,Web Development,FD Code Academy Offline Class,111,69.0,87.0,6.2,30,On Track,78.0
+STU0076,9,Database,FD Code Academy Offline Class,310,92.0,98.0,9.7,28,High Performer,88.0
+STU1342,12,Cyber Security,Peer Study Group,143,64.0,77.0,4.8,42,On Track,65.0
+STU0078,8,Database,YouTube Video Tutorial,78,71.0,70.0,3.2,4,On Track,62.0
+STU0079,9,Cyber Security,FD Code Academy Offline Class,218,79.0,71.0,9.8,32,On Track,78.0
+STU0080,12,Cyber Security,FD Code Academy Online Class,292,96.0,92.0,8.7,14,High Performer,86.0
+STU0081,10,University Preparation,AI-Assisted Learning,234,78.0,81.0,11.8,3,On Track,82.6
+STU0082,11,University Preparation,FD Code Academy Offline Class,228,88.0,,9.2,19,On Track,78.0
+STU0083,10,Cyber Security,AI-Assisted Learning,148,71.0,86.0,6.0,5,On Track,79.8
+STU0084,11,Data Science,FD Code Academy Offline Class,120,89.0,88.0,6.0,29,On Track,78.0
+STU0085,8,Linux,FD Code Academy Offline Class,129,85.0,81.0,5.3,23,On Track,78.0
+STU0086,8,Olympiad,FD Code Academy Offline Class,201,85.0,71.0,7.3,28,On Track,78.0
+STU0087,10,Web Development,FD Code Academy Offline Class,340,93.0,100.0,13.9,46,High Performer,90.0
+STU0088,12,AI & Machine Learning,Peer Study Group,245,85.0,85.0,7.8,26,High Performer,82.0
+STU0089,11,Web Development,AI-Assisted Learning,27,51.0,64.0,2.2,2,Needs Support,70.0
+STU0090,12,Data Science,Peer Study Group,63,72.0,64.0,4.5,20,On Track,65.0
+STU0091,7,Database,FD Code Academy Offline Class,149,80.0,66.0,9.1,27,On Track,78.0
+STU0092,Gap Year,Data Science,AI-Assisted Learning,190,76.0,75.0,9.8,8,On Track,78.0
+STU0093,10,Olympiad,FD Code Academy Offline Class,340,100.0,97.0,13.8,23,High Performer,90.0
+STU0094,11,Data Science,FD Code Academy Offline Class,139,73.0,88.0,5.0,14,On Track,78.0
+STU0095,11,AI & Machine Learning,FD Code Academy Offline Class,305,97.0,87.0,10.8,40,High Performer,91.1
+STU0096,7,Python Foundation,FD Code Academy Offline Class,179,74.0,70.0,7.6,14,On Track,78.0
+STU0097,11,AI & Machine Learning,Peer Study Group,179,78.0,67.0,8.1,33,On Track,65.0
+STU0098,8,Python Foundation,AI-Assisted Learning,77,39.0,61.0,4.5,4,Needs Support,70.0
+STU0099,12,University Preparation,FD Code Academy Online Class,117,73.0,84.0,5.5,12,On Track,75.0
+STU0100,11,Competitive Programming,FD Code Academy Offline Class,296,86.0,86.0,9.8,21,On Track,81.2
+STU0101,8,Python Foundation,YouTube Video Tutorial,14,34.0,50.0,2.0,1,Needs Support,45.0
+STU0102,8,Competitive Programming,FD Code Academy Offline Class,270,93.0,96.0,8.6,51,High Performer,88.0
+STU0103,7,Web Development,AI-Assisted Learning,178,69.0,61.0,8.8,4,On Track,78.0
+STU0104,10,Competitive Programming,YouTube Video Tutorial,29,59.0,50.0,1.2,3,Needs Support,45.0
+STU0105,8,Competitive Programming,FD Code Academy Offline Class,340,93.0,94.0,11.3,49,High Performer,88.0
+STU0106,11,Web Development,FD Code Academy Online Class,69,81.0,74.0,3.6,23,On Track,75.0
+STU0107,7,Web Development,FD Code Academy Offline Class,95,89.0,86.0,4.7,25,On Track,78.0
+STU0108,11,Web Development,YouTube Video Tutorial,46,58.0,75.0,3.1,4,On Track,62.0
+STU0109,12,Data Science,FD Code Academy Offline Class,93,85.0,76.0,4.7,38,On Track,78.0
+STU0110,12,University Preparation,YouTube Video Tutorial,59,68.0,77.0,4.0,9,On Track,62.0
+STU0111,11,Cyber Security,AI-Assisted Learning,103,62.0,56.0,3.5,0,Needs Support,70.0
+STU0112,10,Web Development,FD Code Academy Offline Class,279,94.0,89.0,13.9,46,High Performer,88.0
+STU0113,12,University Preparation,FD Code Academy Online Class,204,91.0,90.0,7.5,13,High Performer,86.0
+STU0114,7,Olympiad,FD Code Academy Online Class,96,76.0,70.0,3.8,21,On Track,75.0
+STU0115,12,Data Science,FD Code Academy Online Class,273,100.0,97.0,11.6,28,High Performer,86.3
+STU0116,12,University Preparation,FD Code Academy Offline Class,261,100.0,95.0,13.2,18,High Performer,88.0
+STU0117,10,Web Development,FD Code Academy Offline Class,340,100.0,100.0,13.2,19,High Performer,98.9
+STU0118,10,Python Foundation,FD Code Academy Online Class,67,72.0,60.0,3.8,30,On Track,75.0
+STU0119,7,Python Foundation,YouTube Video Tutorial,77,56.0,71.0,6.7,2,On Track,62.0
+STU0120,9,Python Foundation,FD Code Academy Online Class,94,66.0,64.0,4.5,26,On Track,75.0
+STU0121,10,Competitive Programming,FD Code Academy Online Class,200,98.0,97.0,8.7,11,High Performer,86.0
+STU0122,Gap Year,University Preparation,AI-Assisted Learning,92,54.0,61.0,5.8,6,Needs Support,70.0
+STU0123,11,Web Development,YouTube Video Tutorial,32,59.0,,1.6,1,Needs Support,45.0
+STU0124,11,Data Science,FD Code Academy Offline Class,165,87.0,88.0,6.0,35,On Track,78.0
+STU0125,8,Olympiad,YouTube Video Tutorial,284,96.0,82.0,10.2,1,High Performer,82.0
+STU0126,9,Web Development,FD Code Academy Offline Class,125,77.0,91.0,6.2,22,On Track,78.0
+STU0127,10,Web Development,YouTube Video Tutorial,38,43.0,44.0,2.1,2,Needs Support,45.0
+STU0128,11,Data Science,YouTube Video Tutorial,212,64.0,77.0,7.8,3,On Track,68.7
+STU0129,10,Python Foundation,AI-Assisted Learning,93,52.0,76.0,5.3,0,On Track,78.0
+STU0130,10,Python Foundation,YouTube Video Tutorial,92,65.0,59.0,4.7,2,On Track,62.0
+STU0131,10,Data Science,FD Code Academy Online Class,334,,95.0,11.2,13,High Performer,87.1
+STU0132,10,Cyber Security,AI-Assisted Learning,67,54.0,47.0,6.7,8,Needs Support,99.7
+STU0133,12,Cyber Security,Peer Study Group,259,78.0,87.0,11.4,48,High Performer,82.0
+STU0134,11,University Preparation,FD Code Academy Offline Class,190,73.0,71.0,7.7,32,On Track,78.0
+STU0135,9,AI & Machine Learning,Peer Study Group,69,68.0,63.0,2.8,23,On Track,65.0
+STU0136,9,Python Foundation,AI-Assisted Learning,189,70.0,68.0,10.9,13,On Track,78.0
+STU0137,9,Python Foundation,YouTube Video Tutorial,5,49.0,56.0,0.2,3,Needs Support,45.0
+STU0138,12,Cyber Security,FD Code Academy Online Class,244,94.0,92.0,11.8,28,High Performer,86.0
+STU0139,10,Data Science,FD Code Academy Offline Class,323,100.0,100.0,9.1,31,High Performer,88.3
+STU0140,7,Competitive Programming,FD Code Academy Online Class,95,92.0,63.0,3.7,10,On Track,75.0
+STU0141,12,Olympiad,AI-Assisted Learning,259,77.0,70.0,9.2,11,On Track,85.5
+STU0142,9,Web Development,FD Code Academy Online Class,144,70.0,72.0,5.2,27,On Track,75.0
+STU0143,10,Web Development,FD Code Academy Online Class,208,93.0,85.0,10.1,26,High Performer,86.0
+STU0144,8,Python Foundation,FD Code Academy Online Class,437,69.0,56.0,8.3,88,On Track,92.3
+STU0145,5,Python Foundation,FD Code Academy Offline Class,154,76.0,71.0,8.4,23,On Track,78.0
+STU0146,12,Data Science,Peer Study Group,298,86.0,77.0,11.1,32,High Performer,82.0
+STU0147,8,Python Foundation,AI-Assisted Learning,63,60.0,60.0,4.9,4,On Track,78.0
+STU0148,11,Cyber Security,AI-Assisted Learning,162,79.0,82.0,7.3,1,On Track,78.7
+STU0149,8,Competitive Programming,FD Code Academy Online Class,340,89.0,88.0,12.0,37,High Performer,93.3
+STU0150,10,Data Science,FD Code Academy Offline Class,117,78.0,80.0,,29,On Track,78.0
+STU0151,8,Data Science,FD Code Academy Online Class,314,89.0,85.0,11.2,24,High Performer,86.0
+STU0152,9,AI & Machine Learning,YouTube Video Tutorial,121,73.0,65.0,5.3,9,On Track,62.0
+STU0153,9,Database,YouTube Video Tutorial,166,98.0,76.0,7.8,5,High Performer,82.0
+STU0154,9,Web Development,AI-Assisted Learning,79,45.0,50.0,3.6,4,Needs Support,70.0
+STU0155,12,AI & Machine Learning,Peer Study Group,42,60.0,40.0,1.8,24,Needs Support,50.0
+STU0156,12,Cyber Security,AI-Assisted Learning,105,66.0,72.0,6.0,7,On Track,78.0
+STU0157,12,Cyber Security,FD Code Academy Offline Class,143,78.0,78.0,5.2,22,On Track,78.0
+STU0158,11,Data Science,FD Code Academy Offline Class,184,80.0,92.0,10.2,11,On Track,78.0
+STU0159,11,Cyber Security,FD Code Academy Offline Class,137,87.0,84.0,6.0,24,On Track,78.0
+STU0160,9,Web Development,FD Code Academy Offline Class,252,84.0,79.0,8.9,20,On Track,78.0
+STU0161,10,Cyber Security,FD Code Academy Online Class,201,78.0,68.0,7.0,18,On Track,75.0
+STU0162,6,Competitive Programming,FD Code Academy Offline Class,196,80.0,83.0,7.3,17,On Track,78.0
+STU0163,12,University Preparation,YouTube Video Tutorial,56,47.0,52.0,2.1,0,Needs Support,45.0
+STU0164,11,AI & Machine Learning,AI-Assisted Learning,54,58.0,60.0,2.0,4,Needs Support,70.0
+STU0165,Gap Year,University Preparation,FD Code Academy Offline Class,168,73.0,77.0,6.0,22,On Track,78.0
+STU0166,11,Cyber Security,FD Code Academy Online Class,228,78.0,83.0,8.2,16,On Track,75.0
+STU0167,9,Competitive Programming,YouTube Video Tutorial,35,40.0,56.0,0.5,2,Needs Support,45.0
+STU0168,10,Linux,AI-Assisted Learning,149,53.0,88.0,6.5,0,On Track,78.0
+STU0169,11,Data Science,YouTube Video Tutorial,60,74.0,68.0,4.2,0,On Track,62.0
+STU0170,7,Competitive Programming,FD Code Academy Online Class,206,75.0,78.0,7.7,20,On Track,75.0
+STU0171,11,Web Development,AI-Assisted Learning,50,54.0,71.0,3.8,6,Needs Support,70.0
+STU0172,11,Database,FD Code Academy Offline Class,102,81.0,80.0,4.3,19,On Track,78.0
+STU0173,10,Web Development,FD Code Academy Offline Class,204,73.0,75.0,9.2,37,On Track,78.0
+STU0174,9,Olympiad,Peer Study Group,78,60.0,53.0,3.6,16,Needs Support,50.0
+STU0175,12,Data Science,Peer Study Group,61,55.0,47.0,1.6,22,Needs Support,50.0
+STU0176,10,Web Development,YouTube Video Tutorial,234,75.0,92.0,8.2,2,High Performer,82.0
+STU0177,10,University Preparation,YouTube Video Tutorial,48,69.0,82.0,2.6,6,On Track,62.0
+STU0178,9,Web Development,YouTube Video Tutorial,61,71.0,70.0,4.7,3,On Track,62.0
+STU0179,7,Database,Peer Study Group,39,67.0,62.0,2.6,26,On Track,65.0
+STU0180,12,Data Science,FD Code Academy Offline Class,294,100.0,100.0,11.7,45,High Performer,88.0
+STU0181,10,Data Science,FD Code Academy Online Class,165,97.0,65.0,8.0,31,On Track,75.0
+STU0182,11,Web Development,YouTube Video Tutorial,61,54.0,52.0,3.2,5,Needs Support,45.0
+STU0183,12,University Preparation,FD Code Academy Offline Class,223,77.0,85.0,8.0,18,On Track,78.0
+STU0184,7,Python Foundation,AI-Assisted Learning,78,56.0,73.0,4.8,9,On Track,78.0
+STU0185,12,Database,FD Code Academy Offline Class,261,75.0,87.0,9.2,17,On Track,81.3
+STU0186,9,Web Development,FD Code Academy Online Class,224,90.0,94.0,9.9,39,High Performer,86.0
+STU0187,11,Data Science,FD Code Academy Offline Class,259,98.0,86.0,10.6,37,High Performer,88.0
+STU0188,8,Python Foundation,YouTube Video Tutorial,49,53.0,61.0,2.7,6,On Track,62.0
+STU0189,11,Data Science,FD Code Academy Offline Class,340,98.0,96.0,14.2,42,High Performer,88.0
+STU0190,8,Web Development,Peer Study Group,73,79.0,67.0,4.8,31,On Track,65.0
+STU0191,12,Data Science,AI-Assisted Learning,9,60.0,47.0,1.8,5,Needs Support,70.0
+STU0192,10,Database,FD Code Academy Offline Class,247,84.0,78.0,9.1,18,On Track,78.0
+STU0193,11,Web Development,Peer Study Group,244,91.0,76.0,13.1,47,High Performer,82.0
+STU0194,11,Web Development,FD Code Academy Online Class,127,86.0,67.0,5.7,21,On Track,75.0
+STU0195,9,Competitive Programming,Peer Study Group,65,55.0,44.0,2.8,21,Needs Support,50.0
+STU0196,11,AI & Machine Learning,Peer Study Group,330,89.0,79.0,12.8,44,High Performer,92.2
+STU0197,10,Data Science,FD Code Academy Online Class,90,77.0,92.0,5.2,28,On Track,75.0
+STU0198,10,Database,Peer Study Group,174,90.0,81.0,9.2,28,High Performer,82.0
+STU0199,5,Python Foundation,FD Code Academy Online Class,151,63.0,70.0,6.0,16,On Track,75.0
+STU0200,11,AI & Machine Learning,YouTube Video Tutorial,47,45.0,42.0,0.8,3,Needs Support,45.0
+STU0201,9,Competitive Programming,FD Code Academy Offline Class,340,100.0,96.0,13.1,32,High Performer,99.0
+STU0202,11,Competitive Programming,YouTube Video Tutorial,200,73.0,73.0,7.3,0,On Track,62.0
+STU0203,8,Python Foundation,FD Code Academy Online Class,151,69.0,63.0,7.6,11,On Track,75.0
+STU0204,12,Web Development,YouTube Video Tutorial,60,70.0,78.0,3.1,5,On Track,62.0
+STU0205,10,Olympiad,FD Code Academy Online Class,248,100.0,87.0,9.3,27,High Performer,86.0
+STU0206,9,Web Development,FD Code Academy Offline Class,257,100.0,100.0,13.7,25,High Performer,88.0
+STU0207,10,University Preparation,YouTube Video Tutorial,258,96.0,89.0,10.2,4,High Performer,82.0
+STU0208,9,Python Foundation,YouTube Video Tutorial,39,28.0,38.0,2.8,4,Needs Support,45.0
+STU0209,11,University Preparation,AI-Assisted Learning,145,58.0,71.0,6.2,8,On Track,78.0
+STU0210,9,Cyber Security,Peer Study Group,80,55.0,77.0,3.8,40,On Track,65.0
+STU0211,12,Database,FD Code Academy Online Class,203,99.0,92.0,11.1,21,High Performer,86.0
+STU0212,10,Linux,Peer Study Group,175,72.0,75.0,7.6,17,On Track,65.0
+STU0213,11,AI & Machine Learning,YouTube Video Tutorial,78,79.0,54.0,3.6,1,On Track,62.0
+STU0214,8,Data Science,FD Code Academy Offline Class,263,100.0,83.0,9.2,22,High Performer,88.0
+STU0215,8,Python Foundation,YouTube Video Tutorial,5,47.0,40.0,0.6,1,Needs Support,45.0
+STU0216,9,Python Foundation,Peer Study Group,55,59.0,49.0,3.0,16,Needs Support,50.0
+STU0217,9,Competitive Programming,AI-Assisted Learning,112,53.0,53.0,5.2,0,Needs Support,70.0
+STU0218,11,University Preparation,FD Code Academy Offline Class,151,89.0,69.0,8.6,22,On Track,78.0
+STU0219,11,Web Development,AI-Assisted Learning,114,59.0,60.0,5.0,6,Needs Support,70.0
+STU0220,9,Olympiad,FD Code Academy Offline Class,204,82.0,72.0,10.1,27,On Track,78.0
+STU0221,12,Database,FD Code Academy Offline Class,86,83.0,86.0,4.1,29,On Track,78.0
+STU0222,10,AI & Machine Learning,Peer Study Group,96,72.0,72.0,4.0,19,On Track,65.0
+STU0223,8,Competitive Programming,FD Code Academy Online Class,321,88.0,100.0,9.0,29,High Performer,88.6
+STU0224,8,Olympiad,YouTube Video Tutorial,80,39.0,31.0,3.6,1,Needs Support,45.0
+STU0225,8,AI & Machine Learning,YouTube Video Tutorial,261,95.0,95.0,16.1,6,High Performer,96.0
+STU0226,10,Olympiad,YouTube Video Tutorial,140,63.0,55.0,7.8,5,On Track,62.0
+STU0227,11,Data Science,FD Code Academy Offline Class,280,89.0,92.0,13.9,39,High Performer,88.0
+STU0228,Gap Year,AI & Machine Learning,FD Code Academy Online Class,277,85.0,86.0,9.2,25,High Performer,86.0
+STU0229,7,Python Foundation,FD Code Academy Online Class,151,72.0,65.0,7.9,21,On Track,75.0
+STU0230,12,Data Science,FD Code Academy Online Class,267,100.0,95.0,8.8,19,High Performer,86.0
+STU0231,9,Olympiad,Peer Study Group,62,49.0,55.0,1.9,21,Needs Support,50.0
+STU0232,7,Competitive Programming,FD Code Academy Offline Class,164,80.0,81.0,6.6,28,On Track,78.0
+STU0233,11,University Preparation,FD Code Academy Online Class,154,84.0,77.0,8.6,17,On Track,75.0
+STU0234,11,Linux,YouTube Video Tutorial,29,61.0,38.0,0.9,4,Needs Support,45.0
+STU0235,10,Web Development,YouTube Video Tutorial,61,57.0,56.0,1.8,1,Needs Support,45.0
+STU0236,12,University Preparation,AI-Assisted Learning,339,85.0,83.0,18.1,5,High Performer,91.9
+STU0237,7,Web Development,FD Code Academy Online Class,103,85.0,75.0,3.6,21,On Track,75.0
+STU0238,8,Competitive Programming,AI-Assisted Learning,162,68.0,70.0,6.1,9,On Track,78.0
+STU0239,10,Database,Peer Study Group,190,91.0,88.0,13.3,59,High Performer,85.4
+STU0240,10,University Preparation,YouTube Video Tutorial,195,91.0,75.0,8.7,11,High Performer,82.0
+STU0241,10,Database,FD Code Academy Offline Class,126,94.0,71.0,7.0,16,On Track,78.0
+STU0242,9,Database,AI-Assisted Learning,51,53.0,51.0,2.0,5,Needs Support,70.0
+STU0243,8,Competitive Programming,AI-Assisted Learning,294,87.0,84.0,11.5,4,High Performer,90.7
+STU0244,12,Database,FD Code Academy Offline Class,166,79.0,73.0,5.8,35,On Track,78.0
+STU0245,8,Web Development,AI-Assisted Learning,38,42.0,55.0,1.6,1,Needs Support,70.0
+STU0246,9,Data Science,FD Code Academy Online Class,172,82.0,74.0,5.2,21,On Track,75.0
+STU0247,7,Python Foundation,AI-Assisted Learning,78,73.0,67.0,4.7,12,On Track,78.0
+STU0248,5,Python Foundation,YouTube Video Tutorial,15,49.0,42.0,1.0,5,Needs Support,45.0
+STU0249,11,University Preparation,FD Code Academy Online Class,153,71.0,68.0,6.2,25,On Track,75.0
+STU0250,8,Competitive Programming,AI-Assisted Learning,96,58.0,59.0,4.4,6,Needs Support,70.0
+STU0251,11,Database,Peer Study Group,132,87.0,88.0,7.7,56,High Performer,82.0
+STU0252,9,AI & Machine Learning,AI-Assisted Learning,184,68.0,68.0,11.9,9,On Track,78.0
+STU0253,11,Cyber Security,FD Code Academy Offline Class,256,94.0,100.0,10.2,36,High Performer,88.0
+STU0254,6,Python Foundation,YouTube Video Tutorial,19,45.0,43.0,1.5,1,Needs Support,45.0
+STU0255,9,Python Foundation,FD Code Academy Offline Class,185,92.0,90.0,8.8,26,High Performer,88.0
+STU0256,10,Cyber Security,AI-Assisted Learning,170,68.0,66.0,10.1,3,On Track,79.1
+STU0257,11,University Preparation,FD Code Academy Online Class,220,88.0,93.0,8.0,40,High Performer,86.0
+STU0258,10,Python Foundation,FD Code Academy Online Class,214,84.0,87.0,9.2,12,High Performer,86.0
+STU0259,12,AI & Machine Learning,FD Code Academy Online Class,91,71.0,68.0,3.9,13,On Track,75.0
+STU0260,10,Python Foundation,YouTube Video Tutorial,5,45.0,34.0,0.2,3,Needs Support,45.0
+STU0261,10,Database,AI-Assisted Learning,103,59.0,80.0,4.6,2,On Track,78.0
+STU0262,9,Olympiad,AI-Assisted Learning,121,55.0,56.0,6.3,3,Needs Support,70.0
+STU0263,9,AI & Machine Learning,YouTube Video Tutorial,11,59.0,50.0,2.0,7,Needs Support,45.0
+STU0264,Gap Year,University Preparation,YouTube Video Tutorial,106,64.0,65.0,8.2,3,On Track,62.0
+STU0265,11,University Preparation,YouTube Video Tutorial,229,93.0,93.0,11.6,4,High Performer,82.0
+STU0266,8,Data Science,FD Code Academy Offline Class,127,78.0,88.0,4.5,39,On Track,78.0
+STU0267,10,Competitive Programming,FD Code Academy Online Class,243,83.0,67.0,7.8,27,On Track,75.0
+STU0268,10,University Preparation,FD Code Academy Offline Class,124,80.0,78.0,5.8,37,On Track,78.0
+STU0269,7,Python Foundation,Peer Study Group,108,71.0,62.0,6.6,39,On Track,65.0
+STU0270,11,Web Development,Peer Study Group,137,55.0,80.0,7.0,20,On Track,65.0
+STU0271,11,Linux,Peer Study Group,81,71.0,75.0,5.3,40,On Track,65.0
+STU0272,12,Olympiad,YouTube Video Tutorial,134,81.0,60.0,5.5,7,On Track,62.0
+STU0273,10,Linux,YouTube Video Tutorial,52,53.0,46.0,1.9,3,Needs Support,45.0
+STU0274,12,Linux,Peer Study Group,5,54.0,55.0,1.0,29,Needs Support,50.0
+STU0275,10,Data Science,FD Code Academy Online Class,129,74.0,67.0,6.3,26,On Track,75.0
+STU0276,7,Linux,AI-Assisted Learning,293,77.0,91.0,13.9,15,High Performer,90.6
+STU0277,10,Data Science,Peer Study Group,46,74.0,79.0,2.4,23,On Track,65.0
+STU0278,12,Cyber Security,FD Code Academy Offline Class,148,89.0,78.0,6.5,28,On Track,78.0
+STU0279,Gap Year,Web Development,YouTube Video Tutorial,340,82.0,87.0,14.8,10,High Performer,87.2
+STU0280,8,Competitive Programming,FD Code Academy Offline Class,281,82.0,80.0,10.2,20,On Track,82.2
+STU0281,12,Data Science,Peer Study Group,117,74.0,54.0,4.7,22,On Track,65.0
+STU0282,6,Competitive Programming,YouTube Video Tutorial,71,57.0,61.0,3.0,5,Needs Support,45.0
+STU0283,12,Data Science,Peer Study Group,150,81.0,70.0,7.5,27,On Track,65.0
+STU0284,10,Linux,Peer Study Group,80,65.0,75.0,4.3,22,On Track,65.0
+STU0285,9,Web Development,YouTube Video Tutorial,95,67.0,63.0,4.8,2,On Track,62.0
+STU0286,11,University Preparation,AI-Assisted Learning,136,43.0,62.0,7.9,6,Needs Support,95.8
+STU0287,Gap Year,Database,AI-Assisted Learning,160,64.0,64.0,7.8,9,On Track,78.0
+STU0288,9,Web Development,YouTube Video Tutorial,25,57.0,55.0,3.2,3,On Track,62.0
+STU0289,8,Olympiad,AI-Assisted Learning,250,79.0,80.0,8.8,6,On Track,84.9
+STU0290,8,Web Development,FD Code Academy Offline Class,166,76.0,91.0,5.0,35,On Track,78.0
+STU0291,7,Python Foundation,FD Code Academy Online Class,100,77.0,78.0,3.5,29,On Track,75.0
+STU0292,11,Olympiad,FD Code Academy Online Class,264,73.0,64.0,9.1,17,On Track,75.0
+STU0293,12,Web Development,Peer Study Group,46,51.0,43.0,1.8,13,Needs Support,50.0
+STU0294,9,Database,FD Code Academy Offline Class,199,87.0,81.0,7.9,14,On Track,78.0
+STU0295,10,Competitive Programming,FD Code Academy Online Class,277,86.0,82.0,12.1,16,High Performer,86.0
+STU0296,11,AI & Machine Learning,FD Code Academy Offline Class,340,92.0,93.0,13.8,22,High Performer,88.0
+STU0297,10,Cyber Security,AI-Assisted Learning,95,80.0,74.0,3.8,4,On Track,78.0
+STU0298,12,Olympiad,Peer Study Group,207,76.0,74.0,7.2,42,On Track,69.2
+STU0299,7,Python Foundation,Peer Study Group,179,77.0,84.0,11.1,54,High Performer,82.0
+STU0300,Gap Year,Data Science,FD Code Academy Offline Class,267,83.0,81.0,10.2,32,On Track,79.4
+STU0301,7,Python Foundation,FD Code Academy Offline Class,340,96.0,85.0,13.4,47,High Performer,89.6
+STU0302,Gap Year,AI & Machine Learning,AI-Assisted Learning,164,61.0,58.0,8.7,9,On Track,78.0
+STU0303,12,Database,FD Code Academy Online Class,127,79.0,84.0,4.8,5,On Track,75.0
+STU0304,11,Database,Peer Study Group,102,81.0,72.0,4.9,37,On Track,65.0
+STU0305,9,AI & Machine Learning,FD Code Academy Offline Class,212,90.0,83.0,8.3,18,On Track,78.0
+STU0306,11,Olympiad,FD Code Academy Offline Class,184,78.0,77.0,8.4,14,On Track,78.0
+STU0307,8,Competitive Programming,FD Code Academy Offline Class,271,100.0,96.0,11.0,16,High Performer,88.0
+STU0308,7,Competitive Programming,FD Code Academy Online Class,249,91.0,99.0,9.3,17,High Performer,86.0
+STU0309,11,AI & Machine Learning,AI-Assisted Learning,162,77.0,67.0,7.5,1,On Track,78.0
+STU0310,9,Python Foundation,YouTube Video Tutorial,160,82.0,83.0,11.0,8,High Performer,82.0
+STU0311,9,Linux,AI-Assisted Learning,115,43.0,68.0,4.6,4,Needs Support,70.0
+STU0312,8,Web Development,Peer Study Group,42,53.0,58.0,2.8,16,Needs Support,50.0
+STU0313,7,Olympiad,FD Code Academy Offline Class,236,,83.0,10.6,13,On Track,78.0
+STU0314,11,University Preparation,YouTube Video Tutorial,257,85.0,90.0,15.4,2,High Performer,84.6
+STU0315,11,Data Science,AI-Assisted Learning,88,56.0,55.0,5.0,8,Needs Support,70.0
+STU0316,9,Database,YouTube Video Tutorial,69,39.0,31.0,2.4,1,Needs Support,45.0
+STU0317,10,Olympiad,FD Code Academy Offline Class,230,93.0,76.0,10.1,22,On Track,80.5
+STU0318,10,Web Development,YouTube Video Tutorial,33,37.0,60.0,2.0,6,Needs Support,45.0
+STU0319,7,Olympiad,FD Code Academy Offline Class,242,80.0,79.0,8.2,23,On Track,78.0
+STU0320,10,AI & Machine Learning,FD Code Academy Online Class,173,80.0,62.0,6.2,26,On Track,75.0
+STU0321,10,Linux,AI-Assisted Learning,142,74.0,73.0,11.1,8,On Track,87.9
+STU0322,10,AI & Machine Learning,AI-Assisted Learning,117,48.0,55.0,6.0,6,Needs Support,70.0
+STU0323,11,AI & Machine Learning,Peer Study Group,265,85.0,77.0,8.4,29,High Performer,82.0
+STU0324,11,AI & Machine Learning,YouTube Video Tutorial,107,68.0,49.0,4.8,10,On Track,62.0
+STU0325,12,Data Science,FD Code Academy Online Class,121,72.0,71.0,5.2,19,On Track,75.0
+STU0326,10,University Preparation,AI-Assisted Learning,129,51.0,63.0,6.0,2,Needs Support,70.0
+STU0327,11,Data Science,FD Code Academy Offline Class,169,90.0,85.0,6.5,34,On Track,78.0
+STU0328,10,Linux,YouTube Video Tutorial,66,69.0,62.0,4.0,4,On Track,62.0
+STU0329,12,AI & Machine Learning,Peer Study Group,73,62.0,53.0,5.7,20,On Track,65.0
+STU0330,Gap Year,AI & Machine Learning,FD Code Academy Offline Class,261,99.0,87.0,8.6,52,High Performer,88.0
+STU0331,7,Olympiad,FD Code Academy Online Class,121,91.0,69.0,5.7,7,On Track,75.0
+STU0332,11,Database,AI-Assisted Learning,115,79.0,59.0,8.6,12,On Track,78.0
+STU0333,11,Olympiad,FD Code Academy Online Class,139,86.0,80.0,4.2,20,On Track,75.0
+STU0334,12,Web Development,AI-Assisted Learning,161,64.0,76.0,9.6,1,On Track,78.0
+STU0335,11,Olympiad,Peer Study Group,266,96.0,72.0,8.7,37,High Performer,82.0
+STU0336,11,Database,Peer Study Group,62,44.0,49.0,1.8,21,Needs Support,50.0
+STU0337,11,Competitive Programming,YouTube Video Tutorial,96,55.0,43.0,3.3,6,Needs Support,45.0
+STU0338,Gap Year,Web Development,FD Code Academy Offline Class,109,78.0,87.0,4.5,25,On Track,78.0
+STU0339,11,AI & Machine Learning,Peer Study Group,121,72.0,57.0,5.2,41,On Track,65.0
+STU0340,6,Olympiad,FD Code Academy Online Class,154,70.0,87.0,7.2,14,On Track,75.0
+STU0341,10,Linux,FD Code Academy Online Class,76,75.0,65.0,3.5,24,On Track,75.0
+STU0342,10,Olympiad,FD Code Academy Online Class,149,74.0,85.0,4.5,21,On Track,75.0
+STU0343,11,University Preparation,Peer Study Group,237,93.0,77.0,12.6,46,High Performer,87.1
+STU0344,5,Python Foundation,FD Code Academy Online Class,164,73.0,64.0,8.3,10,On Track,75.0
+STU0345,Gap Year,University Preparation,FD Code Academy Offline Class,137,85.0,82.0,4.7,37,On Track,78.0
+STU0346,7,Olympiad,AI-Assisted Learning,132,67.0,63.0,5.3,3,Needs Support,70.0
+STU0347,11,Data Science,AI-Assisted Learning,77,79.0,66.0,4.7,5,On Track,78.0
+STU0348,7,Python Foundation,YouTube Video Tutorial,56,61.0,53.0,2.7,1,On Track,62.0
+STU0349,12,Data Science,Peer Study Group,34,59.0,47.0,0.9,18,Needs Support,50.0
+STU0350,12,University Preparation,Peer Study Group,86,63.0,66.0,3.9,25,On Track,65.0
+STU0351,11,Linux,YouTube Video Tutorial,60,60.0,68.0,3.1,7,On Track,62.0
+STU0352,10,Olympiad,YouTube Video Tutorial,36,65.0,47.0,1.2,4,Needs Support,45.0
+STU0353,10,Cyber Security,FD Code Academy Offline Class,196,77.0,89.0,6.8,20,On Track,78.0
+STU0354,11,AI & Machine Learning,AI-Assisted Learning,114,60.0,60.0,4.7,0,Needs Support,70.0
+STU0355,12,Competitive Programming,Peer Study Group,321,90.0,85.0,12.0,50,High Performer,85.0
+STU0356,12,Olympiad,FD Code Academy Offline Class,187,83.0,81.0,9.8,19,On Track,78.0
+STU0357,10,Web Development,YouTube Video Tutorial,64,59.0,61.0,5.0,8,On Track,62.0
+STU0358,12,University Preparation,YouTube Video Tutorial,38,59.0,46.0,1.4,6,Needs Support,45.0
+STU0359,10,Web Development,FD Code Academy Offline Class,236,90.0,89.0,11.4,28,High Performer,88.0
+STU0360,10,Data Science,Peer Study Group,41,62.0,47.0,2.5,20,Needs Support,50.0
+STU0361,12,University Preparation,Peer Study Group,38,63.0,68.0,3.6,41,On Track,65.0
+STU0362,10,Competitive Programming,Peer Study Group,129,72.0,79.0,4.2,37,On Track,66.1
+STU0363,12,University Preparation,FD Code Academy Offline Class,160,87.0,72.0,5.8,40,On Track,78.0
+STU0364,12,Web Development,FD Code Academy Online Class,193,81.0,67.0,,8,On Track,75.0
+STU0365,9,Competitive Programming,FD Code Academy Online Class,236,85.0,80.0,9.0,9,On Track,75.7
+STU0366,8,Python Foundation,Peer Study Group,5,57.0,41.0,0.8,28,Needs Support,50.0
+STU0367,9,Olympiad,AI-Assisted Learning,107,77.0,78.0,4.5,0,On Track,78.0
+STU0368,9,Olympiad,AI-Assisted Learning,66,47.0,62.0,6.7,0,Needs Support,100.0
+STU0369,7,Python Foundation,FD Code Academy Offline Class,230,88.0,89.0,9.2,34,High Performer,88.0
+STU0370,12,Linux,YouTube Video Tutorial,33,36.0,63.0,0.8,5,Needs Support,45.0
+STU0371,11,Data Science,YouTube Video Tutorial,7,54.0,37.0,0.5,6,Needs Support,45.0
+STU0372,12,University Preparation,YouTube Video Tutorial,97,80.0,67.0,6.0,1,On Track,62.0
+STU0373,5,Python Foundation,FD Code Academy Online Class,72,83.0,64.0,3.4,9,On Track,75.0
+STU0374,10,Olympiad,YouTube Video Tutorial,112,54.0,,3.4,3,Needs Support,45.0
+STU0375,12,University Preparation,Peer Study Group,296,82.0,89.0,13.8,43,High Performer,82.3
+STU0376,9,Olympiad,FD Code Academy Online Class,227,100.0,96.0,10.2,24,High Performer,86.0
+STU0377,9,Linux,FD Code Academy Offline Class,189,87.0,82.0,8.7,14,On Track,78.0
+STU0378,9,Olympiad,YouTube Video Tutorial,50,51.0,53.0,3.0,3,Needs Support,45.0
+STU0379,11,Olympiad,YouTube Video Tutorial,103,64.0,50.0,4.2,0,On Track,62.0
+STU0380,9,Olympiad,AI-Assisted Learning,127,73.0,63.0,8.2,11,On Track,78.0
+STU0381,12,Web Development,FD Code Academy Online Class,105,69.0,68.0,3.8,7,On Track,75.0
+STU0382,11,University Preparation,Peer Study Group,5,46.0,53.0,0.8,30,Needs Support,50.0
+STU0383,11,Data Science,AI-Assisted Learning,184,65.0,75.0,8.2,5,On Track,80.5
+STU0384,11,Data Science,FD Code Academy Online Class,252,73.0,76.0,8.8,28,On Track,75.0
+STU0385,Gap Year,University Preparation,AI-Assisted Learning,63,56.0,62.0,3.0,0,Needs Support,70.0
+STU0386,11,University Preparation,FD Code Academy Offline Class,166,85.0,78.0,5.8,24,On Track,78.0
+STU0387,11,AI & Machine Learning,FD Code Academy Online Class,92,87.0,60.0,4.0,18,On Track,75.0
+STU0388,12,Data Science,AI-Assisted Learning,277,91.0,81.0,11.1,7,High Performer,90.0
+STU0389,11,Linux,YouTube Video Tutorial,118,77.0,58.0,5.2,3,On Track,62.0
+STU0390,12,University Preparation,Peer Study Group,293,80.0,71.0,13.8,51,High Performer,82.0
+STU0391,12,Data Science,FD Code Academy Offline Class,143,80.0,84.0,5.8,36,On Track,78.0
+STU0392,9,Web Development,FD Code Academy Offline Class,167,85.0,78.0,7.8,19,On Track,78.0
+STU0393,10,Linux,FD Code Academy Offline Class,208,,90.0,10.0,36,High Performer,88.0
+STU0394,12,Database,FD Code Academy Offline Class,340,99.0,88.0,11.2,12,High Performer,88.0
+STU0395,8,AI & Machine Learning,AI-Assisted Learning,33,52.0,45.0,1.6,2,Needs Support,70.0
+STU0396,10,University Preparation,FD Code Academy Online Class,152,69.0,62.0,8.3,5,On Track,75.0
+STU0397,10,AI & Machine Learning,Peer Study Group,19,53.0,45.0,1.1,22,Needs Support,50.0
+STU0398,9,Competitive Programming,FD Code Academy Online Class,273,100.0,100.0,10.4,34,High Performer,93.8
+STU0399,10,AI & Machine Learning,AI-Assisted Learning,130,50.0,48.0,4.8,1,Needs Support,70.0
+STU0400,11,Competitive Programming,YouTube Video Tutorial,340,89.0,93.0,12.2,8,High Performer,90.1
+STU0401,Gap Year,Web Development,Peer Study Group,45,75.0,62.0,4.0,23,On Track,65.0
+STU0402,9,Web Development,YouTube Video Tutorial,290,78.0,92.0,14.6,5,High Performer,82.0
+STU0403,8,Web Development,FD Code Academy Online Class,89,66.0,59.0,4.8,25,On Track,75.0
+STU0404,11,University Preparation,AI-Assisted Learning,322,,79.0,12.2,7,High Performer,90.8
+STU0405,9,Data Science,AI-Assisted Learning,126,55.0,56.0,5.0,7,Needs Support,70.0
+STU0406,8,Olympiad,Peer Study Group,319,85.0,87.0,14.2,34,High Performer,82.5
+STU0407,9,AI & Machine Learning,FD Code Academy Online Class,122,70.0,75.0,5.5,17,On Track,75.0
+STU0408,11,Database,FD Code Academy Offline Class,130,82.0,69.0,7.0,18,On Track,78.0
+STU0409,12,Data Science,FD Code Academy Online Class,174,84.0,72.0,7.0,12,On Track,75.0
+STU0410,8,Olympiad,FD Code Academy Offline Class,160,89.0,85.0,5.7,22,On Track,78.0
+STU0411,9,Database,YouTube Video Tutorial,34,55.0,57.0,1.5,3,Needs Support,45.0
+STU0412,7,Web Development,AI-Assisted Learning,148,67.0,71.0,7.5,10,On Track,78.0
+STU0413,10,Python Foundation,FD Code Academy Offline Class,126,69.0,81.0,9.2,21,On Track,78.0
+STU0414,8,Olympiad,AI-Assisted Learning,58,61.0,71.0,2.0,4,Needs Support,70.0
+STU0415,11,Linux,YouTube Video Tutorial,8,38.0,61.0,0.6,5,Needs Support,45.0
+STU0416,11,Web Development,AI-Assisted Learning,11,54.0,59.0,1.8,1,Needs Support,70.0
+STU0417,11,Web Development,AI-Assisted Learning,65,47.0,60.0,5.5,4,Needs Support,70.0
+STU0418,12,Web Development,FD Code Academy Offline Class,336,89.0,98.0,12.4,49,High Performer,97.0
+STU0419,11,Linux,Peer Study Group,56,56.0,72.0,3.2,30,On Track,65.0
+STU0420,8,Web Development,FD Code Academy Online Class,114,84.0,69.0,5.3,14,On Track,75.0
+STU0421,6,Python Foundation,AI-Assisted Learning,25,52.0,42.0,2.2,5,Needs Support,70.0
+STU0422,12,University Preparation,Peer Study Group,77,47.0,46.0,2.9,16,Needs Support,50.0
+STU0423,10,University Preparation,FD Code Academy Online Class,148,75.0,73.0,8.1,12,On Track,75.0
+STU0424,8,Competitive Programming,Peer Study Group,37,65.0,52.0,1.2,22,Needs Support,50.0
+STU0425,10,Data Science,FD Code Academy Online Class,290,98.0,98.0,12.2,27,High Performer,86.0
+STU0426,9,AI & Machine Learning,YouTube Video Tutorial,97,60.0,54.0,7.2,9,On Track,62.0
+STU0427,8,Database,FD Code Academy Offline Class,122,79.0,79.0,4.1,25,On Track,78.0
+STU0428,7,Python Foundation,YouTube Video Tutorial,150,74.0,83.0,7.1,8,High Performer,82.0
+STU0429,8,Python Foundation,Peer Study Group,41,52.0,50.0,1.6,11,Needs Support,50.0
+STU0430,10,AI & Machine Learning,YouTube Video Tutorial,468,41.0,53.0,28.9,54,Needs Support,58.6
+STU0431,Gap Year,Cyber Security,FD Code Academy Offline Class,134,79.0,82.0,4.5,18,On Track,78.0
+STU0432,5,Python Foundation,FD Code Academy Offline Class,324,91.0,87.0,12.8,26,High Performer,88.0
+STU0433,11,Data Science,YouTube Video Tutorial,197,75.0,66.0,8.0,6,On Track,73.7
+STU0434,12,Data Science,Peer Study Group,38,56.0,59.0,2.6,17,Needs Support,50.0
+STU0435,11,Data Science,FD Code Academy Offline Class,164,78.0,67.0,5.8,23,On Track,78.0
+STU0436,10,Olympiad,YouTube Video Tutorial,103,73.0,72.0,5.3,5,On Track,62.0
+STU0437,10,Python Foundation,FD Code Academy Offline Class,115,76.0,84.0,4.6,23,On Track,78.0
+STU0438,9,Web Development,FD Code Academy Online Class,176,92.0,85.0,8.3,16,High Performer,86.0
+STU0439,10,Database,FD Code Academy Offline Class,115,74.0,71.0,4.8,32,On Track,78.0
+STU0440,8,Web Development,FD Code Academy Online Class,151,74.0,67.0,7.8,25,On Track,75.0
+STU0441,10,Web Development,YouTube Video Tutorial,129,60.0,58.0,6.5,4,On Track,62.0
+STU0442,10,Database,Peer Study Group,49,83.0,67.0,2.4,26,On Track,65.0
+STU0443,11,Cyber Security,FD Code Academy Offline Class,197,83.0,92.0,9.7,17,On Track,78.0
+STU0444,7,Olympiad,FD Code Academy Offline Class,340,99.0,92.0,10.3,35,High Performer,88.0
+STU0445,7,Python Foundation,YouTube Video Tutorial,53,71.0,56.0,4.7,4,On Track,62.0
+STU0446,12,AI & Machine Learning,YouTube Video Tutorial,239,84.0,90.0,8.6,0,High Performer,82.0
+STU0447,7,Python Foundation,AI-Assisted Learning,116,41.0,48.0,5.9,1,Needs Support,70.0
+STU0448,11,Data Science,AI-Assisted Learning,226,67.0,80.0,11.4,3,On Track,78.4
+STU0449,8,Linux,AI-Assisted Learning,15,45.0,69.0,1.3,4,Needs Support,70.0
+STU0450,9,Database,Peer Study Group,274,94.0,80.0,11.0,59,High Performer,84.3
+STU0451,6,Python Foundation,FD Code Academy Offline Class,158,75.0,80.0,7.1,10,On Track,78.0
+STU0452,11,Cyber Security,Peer Study Group,340,90.0,90.0,14.2,57,High Performer,94.5
+STU0453,9,Competitive Programming,YouTube Video Tutorial,321,84.0,80.0,10.9,7,High Performer,82.0
+STU0454,11,AI & Machine Learning,YouTube Video Tutorial,65,63.0,66.0,2.8,4,On Track,62.0
+STU0455,10,Web Development,AI-Assisted Learning,106,48.0,51.0,4.7,0,Needs Support,70.0
+STU0456,9,AI & Machine Learning,FD Code Academy Online Class,310,100.0,95.0,11.3,26,High Performer,87.2
+STU0457,11,Cyber Security,YouTube Video Tutorial,248,85.0,87.0,15.9,6,High Performer,82.0
+STU0458,8,Python Foundation,FD Code Academy Online Class,100,87.0,75.0,4.8,24,On Track,75.0
+STU0459,10,Olympiad,Peer Study Group,155,76.0,68.0,7.2,28,On Track,65.0
+STU0460,9,Web Development,YouTube Video Tutorial,87,66.0,75.0,3.6,2,On Track,62.0
+STU0461,11,Cyber Security,FD Code Academy Online Class,270,87.0,92.0,8.6,32,High Performer,86.0
+STU0462,8,Python Foundation,FD Code Academy Online Class,362,86.0,77.0,9.0,77,High Performer,97.9
+STU0463,12,Linux,YouTube Video Tutorial,65,70.0,59.0,3.7,4,On Track,62.0
+STU0464,7,Web Development,YouTube Video Tutorial,153,62.0,53.0,6.7,1,On Track,62.0
+STU0465,10,Python Foundation,YouTube Video Tutorial,427,29.0,45.0,35.7,41,Needs Support,53.6
+STU0466,12,AI & Machine Learning,FD Code Academy Online Class,180,88.0,67.0,8.1,8,On Track,75.0
+STU0467,12,Data Science,YouTube Video Tutorial,27,58.0,34.0,0.5,2,Needs Support,45.0
+STU0468,7,Python Foundation,YouTube Video Tutorial,37,26.0,31.0,1.9,5,Needs Support,45.0
+STU0469,9,Olympiad,FD Code Academy Online Class,202,92.0,77.0,8.8,6,On Track,75.0
+STU0470,10,Python Foundation,FD Code Academy Online Class,156,75.0,79.0,7.2,24,On Track,75.0
+STU0471,9,Database,YouTube Video Tutorial,124,54.0,76.0,6.9,1,On Track,62.0
+STU0472,Gap Year,University Preparation,Peer Study Group,52,79.0,80.0,2.5,33,On Track,65.0
+STU0473,9,Linux,Peer Study Group,65,48.0,56.0,2.1,10,Needs Support,50.0
+STU0474,12,University Preparation,FD Code Academy Offline Class,165,90.0,83.0,5.5,34,On Track,78.0
+STU0475,8,Competitive Programming,FD Code Academy Offline Class,195,77.0,85.0,6.5,19,On Track,78.0
+STU0476,9,Olympiad,Peer Study Group,431,62.0,40.0,31.9,78,Needs Support,56.7
+STU0477,11,Linux,YouTube Video Tutorial,191,59.0,67.0,7.9,2,On Track,62.0
+STU0478,12,AI & Machine Learning,FD Code Academy Online Class,210,95.0,80.0,8.1,30,High Performer,86.0
+STU0479,4,Python Foundation,Peer Study Group,23,47.0,49.0,1.0,28,Needs Support,50.0
+STU0480,8,Olympiad,FD Code Academy Offline Class,340,100.0,100.0,13.2,25,High Performer,88.7
+STU0481,12,Olympiad,Peer Study Group,204,87.0,54.0,8.6,24,On Track,73.2
+STU0482,10,Olympiad,FD Code Academy Online Class,229,77.0,69.0,8.1,17,On Track,75.0
+STU0483,9,AI & Machine Learning,YouTube Video Tutorial,71,73.0,52.0,3.9,0,On Track,62.0
+STU0484,10,Competitive Programming,AI-Assisted Learning,205,67.0,59.0,7.8,8,On Track,78.0
+STU0485,9,Competitive Programming,Peer Study Group,26,59.0,50.0,1.1,15,Needs Support,50.0
+STU0486,12,Web Development,FD Code Academy Online Class,84,74.0,77.0,3.2,12,On Track,75.0
+STU0487,12,University Preparation,FD Code Academy Offline Class,170,76.0,87.0,7.0,17,On Track,78.0
+STU0488,11,Web Development,YouTube Video Tutorial,103,64.0,60.0,3.8,5,On Track,62.0
+STU0489,6,Olympiad,FD Code Academy Offline Class,182,93.0,75.0,8.4,35,On Track,78.0
+STU0490,10,Linux,AI-Assisted Learning,23,42.0,52.0,1.1,2,Needs Support,70.0
+STU0491,10,Web Development,YouTube Video Tutorial,156,64.0,64.0,8.0,7,On Track,62.0
+STU0492,11,University Preparation,FD Code Academy Online Class,101,72.0,80.0,4.5,15,On Track,75.0
+STU0493,12,Linux,FD Code Academy Online Class,131,72.0,79.0,8.1,11,On Track,75.0
+STU0494,11,Data Science,AI-Assisted Learning,83,41.0,64.0,4.0,6,Needs Support,70.0
+STU0495,11,AI & Machine Learning,AI-Assisted Learning,48,72.0,56.0,3.5,5,On Track,78.0
+STU0496,12,University Preparation,YouTube Video Tutorial,298,80.0,74.0,13.3,2,High Performer,82.0
+STU0497,10,Cyber Security,FD Code Academy Online Class,283,88.0,95.0,9.3,20,High Performer,86.0
+STU0498,Gap Year,AI & Machine Learning,AI-Assisted Learning,74,67.0,64.0,3.4,6,On Track,78.0
+STU0499,10,Olympiad,FD Code Academy Offline Class,147,98.0,91.0,6.0,35,On Track,78.0
+STU0500,11,AI & Machine Learning,FD Code Academy Online Class,149,69.0,74.0,6.2,20,On Track,75.0
+STU0501,12,Web Development,YouTube Video Tutorial,58,58.0,49.0,3.0,1,Needs Support,45.0
+STU0502,7,Database,FD Code Academy Offline Class,234,88.0,80.0,8.8,36,On Track,78.0
+STU0503,10,Competitive Programming,FD Code Academy Offline Class,204,82.0,81.0,8.4,13,On Track,78.0
+STU0504,11,Database,Peer Study Group,5,61.0,37.0,0.7,15,Needs Support,50.0
+STU0505,9,Competitive Programming,Peer Study Group,101,71.0,62.0,3.5,35,On Track,65.0
+STU0506,8,Olympiad,FD Code Academy Online Class,293,91.0,69.0,9.2,21,On Track,77.2
+STU0507,8,Web Development,YouTube Video Tutorial,115,59.0,58.0,8.2,1,On Track,62.0
+STU0508,9,Data Science,FD Code Academy Offline Class,171,85.0,85.0,9.1,16,On Track,78.0
+STU0509,9,Linux,FD Code Academy Offline Class,205,76.0,78.0,8.1,31,On Track,78.0
+STU0510,11,AI & Machine Learning,YouTube Video Tutorial,67,53.0,45.0,2.5,1,Needs Support,45.0
+STU0511,10,Web Development,AI-Assisted Learning,76,69.0,72.0,7.2,11,On Track,78.0
+STU0512,8,Competitive Programming,FD Code Academy Offline Class,211,79.0,85.0,7.5,13,On Track,78.0
+STU0513,12,Data Science,FD Code Academy Offline Class,330,100.0,96.0,10.3,66,High Performer,93.3
+STU0514,12,Web Development,FD Code Academy Online Class,219,93.0,100.0,11.7,29,High Performer,88.9
+STU0515,9,Olympiad,FD Code Academy Online Class,162,79.0,83.0,7.0,11,On Track,75.0
+STU0516,7,Python Foundation,FD Code Academy Offline Class,138,81.0,72.0,6.5,34,On Track,78.0
+STU0517,12,University Preparation,AI-Assisted Learning,57,74.0,72.0,4.2,2,On Track,78.0
+STU0518,11,Data Science,FD Code Academy Online Class,112,74.0,63.0,3.8,8,On Track,75.0
+STU0519,11,Competitive Programming,Peer Study Group,65,52.0,41.0,2.9,30,Needs Support,50.0
+STU0520,10,Cyber Security,YouTube Video Tutorial,444,65.0,76.0,33.1,58,On Track,71.8
+STU0521,9,Web Development,FD Code Academy Offline Class,98,84.0,74.0,5.7,19,On Track,78.0
+STU0522,12,Cyber Security,YouTube Video Tutorial,44,38.0,55.0,1.9,1,Needs Support,45.0
+STU0523,11,Data Science,YouTube Video Tutorial,12,39.0,51.0,0.9,0,Needs Support,45.0
+STU0524,12,Linux,Peer Study Group,113,65.0,74.0,4.9,36,On Track,65.0
+STU0525,8,Competitive Programming,FD Code Academy Offline Class,304,96.0,71.0,10.4,10,On Track,78.0
+STU0526,Gap Year,Web Development,FD Code Academy Online Class,60,70.0,72.0,3.4,10,On Track,75.0
+STU0527,10,Cyber Security,FD Code Academy Online Class,71,71.0,85.0,3.6,12,On Track,75.0
+STU0528,8,Python Foundation,FD Code Academy Online Class,170,75.0,59.0,8.2,30,On Track,75.0
+STU0529,9,Competitive Programming,AI-Assisted Learning,65,65.0,60.0,3.0,5,Needs Support,70.0
+STU0530,11,Data Science,YouTube Video Tutorial,308,92.0,88.0,13.6,6,High Performer,89.0
+STU0531,10,Web Development,YouTube Video Tutorial,56,66.0,59.0,2.5,4,On Track,62.0
+STU0532,9,Linux,FD Code Academy Offline Class,240,92.0,98.0,8.1,36,High Performer,88.0
+STU0533,8,Python Foundation,FD Code Academy Offline Class,256,86.0,93.0,13.3,48,High Performer,88.0
+STU0534,6,Python Foundation,YouTube Video Tutorial,255,83.0,80.0,15.1,8,High Performer,82.0
+STU0535,9,Cyber Security,Peer Study Group,125,62.0,59.0,8.0,34,On Track,65.0
+STU0536,11,University Preparation,Peer Study Group,10,56.0,55.0,1.1,25,Needs Support,50.0
+STU0537,7,Database,FD Code Academy Offline Class,382,88.0,80.0,4.4,57,On Track,98.0
+STU0538,9,Cyber Security,Peer Study Group,214,93.0,88.0,10.6,29,High Performer,82.2
+STU0539,9,Competitive Programming,AI-Assisted Learning,297,89.0,94.0,11.9,8,High Performer,97.4
+STU0540,8,Data Science,Peer Study Group,23,51.0,49.0,0.8,16,Needs Support,50.0
+STU0541,10,Database,AI-Assisted Learning,212,80.0,60.0,8.6,3,On Track,78.0
+STU0542,10,Competitive Programming,YouTube Video Tutorial,15,57.0,55.0,1.7,2,Needs Support,45.0
+STU0543,8,Python Foundation,FD Code Academy Online Class,66,65.0,73.0,3.4,26,On Track,75.0
+STU0544,9,Competitive Programming,YouTube Video Tutorial,51,47.0,45.0,2.7,2,Needs Support,45.0
+STU0545,12,Web Development,FD Code Academy Offline Class,340,95.0,97.0,13.3,31,High Performer,94.2
+STU0546,10,Web Development,YouTube Video Tutorial,65,47.0,,2.5,6,Needs Support,45.0
+STU0547,Gap Year,AI & Machine Learning,YouTube Video Tutorial,61,73.0,60.0,2.5,10,On Track,62.0
+STU0548,10,Competitive Programming,Peer Study Group,85,60.0,49.0,2.6,17,Needs Support,50.0
+STU0549,5,Python Foundation,FD Code Academy Online Class,209,87.0,80.0,8.0,34,High Performer,86.0
+STU0550,9,Web Development,YouTube Video Tutorial,7,35.0,59.0,0.6,0,Needs Support,45.0
+STU0551,12,Competitive Programming,YouTube Video Tutorial,35,48.0,55.0,3.1,2,Needs Support,45.0
+STU0552,8,Data Science,AI-Assisted Learning,100,42.0,59.0,6.2,5,Needs Support,70.0
+STU0553,12,Cyber Security,FD Code Academy Online Class,111,88.0,79.0,3.5,20,On Track,75.0
+STU0554,12,Linux,FD Code Academy Offline Class,130,93.0,77.0,6.6,34,On Track,78.0
+STU0555,11,Data Science,AI-Assisted Learning,132,51.0,54.0,5.2,8,Needs Support,70.0
+STU0556,12,AI & Machine Learning,FD Code Academy Offline Class,269,95.0,95.0,11.8,52,High Performer,88.0
+STU0557,12,Linux,YouTube Video Tutorial,75,67.0,69.0,4.4,4,On Track,62.0
+STU0558,10,Python Foundation,FD Code Academy Offline Class,220,88.0,91.0,11.3,19,High Performer,88.0
+STU0559,9,Linux,FD Code Academy Online Class,143,65.0,75.0,5.1,27,On Track,75.0
+STU0560,10,Data Science,FD Code Academy Offline Class,183,90.0,70.0,8.8,18,On Track,78.0
+STU0561,12,University Preparation,FD Code Academy Offline Class,78,84.0,78.0,4.7,29,On Track,78.0
+STU0562,9,Python Foundation,FD Code Academy Online Class,154,70.0,82.0,7.1,13,On Track,75.0
+STU0563,9,Olympiad,FD Code Academy Offline Class,326,79.0,77.0,10.7,35,On Track,78.5
+STU0564,11,Competitive Programming,Peer Study Group,123,86.0,77.0,7.7,25,On Track,65.0
+STU0565,12,Web Development,Peer Study Group,495,56.0,62.0,29.3,82,On Track,71.2
+STU0566,8,Python Foundation,YouTube Video Tutorial,192,84.0,69.0,12.3,11,High Performer,82.0
+STU0567,9,Olympiad,FD Code Academy Online Class,188,72.0,80.0,9.4,8,On Track,75.0
+STU0568,9,AI & Machine Learning,AI-Assisted Learning,285,90.0,79.0,10.6,7,High Performer,97.6
+STU0569,6,Python Foundation,FD Code Academy Online Class,122,80.0,77.0,6.5,13,On Track,75.0
+STU0570,7,Web Development,FD Code Academy Offline Class,109,77.0,75.0,4.7,18,On Track,78.0
+STU0571,11,Linux,FD Code Academy Offline Class,235,,75.0,9.4,27,On Track,79.0
+STU0572,12,Data Science,AI-Assisted Learning,97,77.0,63.0,3.9,11,On Track,78.0
+STU0573,9,Linux,FD Code Academy Online Class,198,83.0,93.0,11.2,26,High Performer,86.0
+STU0574,10,AI & Machine Learning,Peer Study Group,41,50.0,59.0,1.8,15,Needs Support,50.0
+STU0575,11,Database,FD Code Academy Offline Class,224,92.0,94.0,11.0,49,High Performer,88.0
+STU0576,10,Data Science,YouTube Video Tutorial,42,47.0,31.0,0.9,0,Needs Support,45.0
+STU0577,10,University Preparation,YouTube Video Tutorial,56,36.0,40.0,3.0,4,Needs Support,45.0
+STU0578,7,Python Foundation,YouTube Video Tutorial,27,34.0,51.0,1.7,4,Needs Support,45.0
+STU0579,Gap Year,Web Development,FD Code Academy Online Class,157,83.0,100.0,7.3,33,High Performer,86.0
+STU0580,10,Data Science,YouTube Video Tutorial,130,66.0,58.0,5.3,3,On Track,62.0
+STU0581,8,Cyber Security,FD Code Academy Online Class,255,98.0,100.0,9.1,25,High Performer,86.0
+STU0582,10,AI & Machine Learning,YouTube Video Tutorial,125,63.0,72.0,4.8,5,On Track,62.0
+STU0583,10,Olympiad,FD Code Academy Offline Class,340,100.0,100.0,13.8,45,High Performer,96.2
+STU0584,10,Competitive Programming,FD Code Academy Offline Class,321,98.0,100.0,11.3,28,High Performer,88.0
+STU0585,7,Olympiad,FD Code Academy Offline Class,336,100.0,92.0,13.4,27,High Performer,88.7
+STU0586,11,AI & Machine Learning,FD Code Academy Offline Class,340,100.0,87.0,13.8,24,High Performer,88.8
+STU0587,12,Database,YouTube Video Tutorial,116,58.0,64.0,6.1,7,On Track,62.0
+STU0588,8,Olympiad,Peer Study Group,31,49.0,49.0,1.2,24,Needs Support,50.0
+STU0589,9,Database,AI-Assisted Learning,55,44.0,65.0,2.8,6,Needs Support,70.0
+STU0590,8,Competitive Programming,YouTube Video Tutorial,68,43.0,58.0,2.3,5,Needs Support,45.0
+STU0591,10,Competitive Programming,YouTube Video Tutorial,256,92.0,84.0,11.0,3,High Performer,82.0
+STU0592,9,Web Development,AI-Assisted Learning,131,56.0,60.0,5.5,5,Needs Support,70.0
+STU0593,11,Competitive Programming,FD Code Academy Offline Class,213,100.0,91.0,8.7,37,High Performer,88.0
+STU0594,11,Database,Peer Study Group,130,68.0,79.0,6.8,26,On Track,65.0
+STU0595,8,Python Foundation,AI-Assisted Learning,57,64.0,70.0,4.5,10,On Track,78.0
+STU0596,7,Python Foundation,FD Code Academy Offline Class,226,92.0,94.0,11.7,26,High Performer,88.0
+STU0597,6,Python Foundation,FD Code Academy Online Class,279,76.0,87.0,11.8,20,High Performer,86.0
+STU0598,11,Database,AI-Assisted Learning,80,53.0,65.0,3.0,9,Needs Support,70.0
+STU0599,12,Database,FD Code Academy Offline Class,95,83.0,89.0,4.7,14,On Track,78.0
+STU0600,12,Cyber Security,AI-Assisted Learning,294,61.0,77.0,10.8,3,On Track,78.0
+STU0601,12,Cyber Security,FD Code Academy Online Class,308,94.0,92.0,9.3,26,High Performer,86.0
+STU0602,10,Database,YouTube Video Tutorial,157,82.0,84.0,7.4,7,High Performer,82.0
+STU0603,7,Python Foundation,AI-Assisted Learning,298,75.0,87.0,13.7,3,High Performer,91.1
+STU0604,10,Web Development,YouTube Video Tutorial,48,34.0,35.0,2.5,3,Needs Support,45.0
+STU0605,10,Linux,YouTube Video Tutorial,47,35.0,41.0,2.6,4,Needs Support,45.0
+STU0606,11,AI & Machine Learning,YouTube Video Tutorial,19,58.0,48.0,1.9,3,Needs Support,45.0
+STU0607,9,Web Development,FD Code Academy Online Class,142,81.0,82.0,4.8,26,On Track,75.0
+STU0608,11,Data Science,FD Code Academy Offline Class,338,100.0,100.0,13.6,43,High Performer,89.5
+STU0609,12,Cyber Security,FD Code Academy Online Class,196,86.0,86.0,7.3,19,On Track,77.2
+STU0610,12,Linux,Peer Study Group,32,58.0,51.0,2.9,29,Needs Support,50.0
+STU0611,11,AI & Machine Learning,FD Code Academy Offline Class,241,100.0,95.0,11.2,31,High Performer,89.1
+STU0612,9,Database,FD Code Academy Online Class,316,87.0,94.0,10.8,15,High Performer,86.0
+STU0613,10,Database,Peer Study Group,12,53.0,,0.6,18,Needs Support,50.0
+STU0614,11,Olympiad,FD Code Academy Online Class,205,79.0,80.0,7.8,18,On Track,75.0
+STU0615,Gap Year,Data Science,Peer Study Group,168,81.0,56.0,7.2,24,On Track,65.0
+STU0616,10,Web Development,Peer Study Group,51,49.0,,3.0,23,Needs Support,50.0
+STU0617,12,Web Development,FD Code Academy Online Class,203,69.0,74.0,8.1,9,On Track,75.0
+STU0618,9,Linux,YouTube Video Tutorial,23,54.0,55.0,1.5,4,Needs Support,45.0
+STU0619,8,Cyber Security,FD Code Academy Online Class,116,78.0,85.0,5.8,26,On Track,75.0
+STU0620,11,University Preparation,YouTube Video Tutorial,47,54.0,45.0,1.9,4,Needs Support,45.0
+STU0621,11,Competitive Programming,Peer Study Group,153,77.0,81.0,7.1,20,On Track,71.1
+STU0622,10,Cyber Security,AI-Assisted Learning,97,77.0,84.0,5.8,8,On Track,78.0
+STU0623,9,Cyber Security,AI-Assisted Learning,164,77.0,82.0,5.8,3,On Track,78.0
+STU0624,12,AI & Machine Learning,FD Code Academy Offline Class,202,89.0,84.0,8.0,32,On Track,78.0
+STU0625,10,Web Development,FD Code Academy Online Class,168,97.0,99.0,7.7,11,High Performer,86.0
+STU0626,10,AI & Machine Learning,Peer Study Group,32,42.0,47.0,1.4,17,Needs Support,50.0
+STU0627,8,Web Development,YouTube Video Tutorial,65,75.0,73.0,5.2,4,On Track,62.0
+STU0628,11,University Preparation,YouTube Video Tutorial,69,61.0,47.0,4.8,7,On Track,62.0
+STU0629,11,Linux,AI-Assisted Learning,229,66.0,85.0,10.6,8,On Track,78.0
+STU0630,9,Python Foundation,AI-Assisted Learning,113,67.0,56.0,6.1,6,On Track,78.0
+STU0631,9,Python Foundation,FD Code Academy Online Class,115,77.0,63.0,7.3,24,On Track,75.0
+STU0632,7,Python Foundation,AI-Assisted Learning,71,44.0,51.0,5.6,4,Needs Support,70.0
+STU0633,10,Web Development,FD Code Academy Online Class,77,71.0,67.0,3.6,15,On Track,75.0
+STU0634,6,Competitive Programming,FD Code Academy Offline Class,340,100.0,100.0,10.4,38,High Performer,88.4
+STU0635,8,Database,FD Code Academy Online Class,127,92.0,74.0,4.8,24,On Track,75.0
+STU0636,12,University Preparation,FD Code Academy Online Class,340,90.0,99.0,12.2,36,High Performer,92.0
+STU0637,7,Python Foundation,Peer Study Group,45,61.0,64.0,3.8,29,On Track,65.0
+STU0638,9,Data Science,FD Code Academy Offline Class,124,89.0,84.0,4.3,19,On Track,78.0
+STU0639,12,University Preparation,AI-Assisted Learning,213,63.0,74.0,10.9,11,On Track,82.4
+STU0640,Gap Year,Database,AI-Assisted Learning,87,75.0,64.0,5.3,2,On Track,78.0
+STU0641,8,Competitive Programming,FD Code Academy Online Class,150,77.0,87.0,5.4,19,On Track,75.0
+STU0642,12,Data Science,Peer Study Group,58,49.0,44.0,2.6,22,Needs Support,50.0
+STU0643,8,Python Foundation,Peer Study Group,199,82.0,69.0,11.1,27,High Performer,82.0
+STU0644,Gap Year,Cyber Security,Peer Study Group,5,55.0,47.0,1.1,22,Needs Support,50.0
+STU0645,12,Linux,FD Code Academy Online Class,124,81.0,82.0,4.3,25,On Track,75.0
+STU0646,6,Python Foundation,FD Code Academy Online Class,212,91.0,88.0,11.5,36,High Performer,86.0
+STU0647,8,AI & Machine Learning,FD Code Academy Online Class,216,98.0,88.0,7.7,29,High Performer,86.0
+STU0648,10,Web Development,FD Code Academy Online Class,183,71.0,86.0,,10,On Track,75.0
+STU0649,11,Web Development,FD Code Academy Online Class,95,81.0,78.0,3.4,8,On Track,75.0
+STU0650,7,Linux,FD Code Academy Offline Class,303,97.0,100.0,12.3,33,High Performer,88.0
+STU0651,7,Web Development,YouTube Video Tutorial,74,66.0,72.0,6.8,1,On Track,62.0
+STU0652,Gap Year,University Preparation,AI-Assisted Learning,122,59.0,56.0,5.8,4,Needs Support,70.0
+STU0653,11,Competitive Programming,YouTube Video Tutorial,22,53.0,50.0,1.7,3,Needs Support,45.0
+STU0654,Gap Year,AI & Machine Learning,FD Code Academy Offline Class,248,96.0,100.0,11.1,28,High Performer,88.0
+STU0655,7,Linux,FD Code Academy Online Class,85,75.0,82.0,4.7,11,On Track,75.0
+STU0656,4,Python Foundation,YouTube Video Tutorial,19,50.0,19.0,0.4,5,Needs Support,45.0
+STU0657,11,Database,FD Code Academy Offline Class,248,95.0,100.0,9.5,27,High Performer,88.0
+STU0658,12,Data Science,FD Code Academy Offline Class,254,77.0,81.0,9.4,10,On Track,78.0
+STU0659,11,Data Science,YouTube Video Tutorial,49,58.0,37.0,2.1,4,Needs Support,45.0
+STU0660,11,Data Science,AI-Assisted Learning,104,79.0,66.0,4.0,2,On Track,78.0
+STU0661,9,Competitive Programming,AI-Assisted Learning,133,78.0,72.0,4.5,2,On Track,78.0
+STU0662,11,Cyber Security,FD Code Academy Online Class,191,71.0,68.0,8.2,11,On Track,75.0
+STU0663,7,Python Foundation,FD Code Academy Online Class,83,82.0,74.0,4.1,13,On Track,75.0
+STU0664,6,Competitive Programming,YouTube Video Tutorial,310,87.0,84.0,14.4,9,High Performer,85.2
+STU0665,10,Data Science,FD Code Academy Online Class,116,74.0,73.0,5.2,14,On Track,75.0
+STU0666,11,Web Development,YouTube Video Tutorial,55,54.0,65.0,4.3,10,On Track,62.0
+STU0667,9,Python Foundation,YouTube Video Tutorial,11,26.0,28.0,0.2,0,Needs Support,45.0
+STU0668,8,Python Foundation,FD Code Academy Online Class,185,64.0,67.0,7.6,16,On Track,75.0
+STU0669,11,Data Science,YouTube Video Tutorial,65,40.0,34.0,2.4,4,Needs Support,45.0
+STU0670,8,Competitive Programming,FD Code Academy Offline Class,218,,82.0,7.4,32,On Track,78.0
+STU0671,5,Python Foundation,YouTube Video Tutorial,13,25.0,25.0,1.4,2,Needs Support,45.0
+STU0672,11,Data Science,AI-Assisted Learning,29,59.0,59.0,1.4,5,Needs Support,70.0
+STU0673,9,Web Development,YouTube Video Tutorial,54,72.0,77.0,3.5,1,On Track,62.0
+STU0674,7,Python Foundation,FD Code Academy Online Class,139,59.0,69.0,7.3,10,On Track,75.0
+STU0675,9,Cyber Security,Peer Study Group,166,75.0,64.0,7.0,32,On Track,65.0
+STU0676,9,Olympiad,YouTube Video Tutorial,159,69.0,66.0,6.2,4,On Track,62.0
+STU0677,9,AI & Machine Learning,YouTube Video Tutorial,48,37.0,34.0,2.6,5,Needs Support,45.0
+STU0678,8,Competitive Programming,YouTube Video Tutorial,176,71.0,65.0,6.0,5,On Track,62.0
+STU0679,12,University Preparation,FD Code Academy Offline Class,157,88.0,76.0,5.5,30,On Track,78.0
+STU0680,11,University Preparation,FD Code Academy Offline Class,340,100.0,100.0,14.1,40,High Performer,100.0
+STU0681,9,Olympiad,FD Code Academy Offline Class,340,100.0,,14.6,32,High Performer,100.0
+STU0682,Gap Year,Cyber Security,YouTube Video Tutorial,456,53.0,46.0,27.2,39,Needs Support,56.6
+STU0683,10,Data Science,Peer Study Group,34,59.0,48.0,0.9,23,Needs Support,50.0
+STU0684,8,Linux,FD Code Academy Offline Class,238,64.0,88.0,,32,On Track,78.0
+STU0685,10,AI & Machine Learning,AI-Assisted Learning,319,69.0,78.0,12.1,1,On Track,81.4
+STU0686,11,Cyber Security,FD Code Academy Online Class,241,93.0,100.0,8.0,19,High Performer,86.0
+STU0687,10,Cyber Security,AI-Assisted Learning,277,78.0,88.0,11.2,8,High Performer,90.0
+STU0688,11,Web Development,AI-Assisted Learning,27,39.0,59.0,1.6,2,Needs Support,70.0
+STU0689,12,Web Development,Peer Study Group,161,64.0,75.0,6.8,33,On Track,65.0
+STU0690,8,Data Science,Peer Study Group,152,75.0,75.0,7.5,15,On Track,65.0
+STU0691,11,Web Development,FD Code Academy Online Class,103,81.0,84.0,4.8,18,On Track,75.0
+STU0692,10,Olympiad,FD Code Academy Offline Class,237,94.0,71.0,10.6,28,On Track,78.0
+STU0693,9,Competitive Programming,FD Code Academy Offline Class,156,91.0,76.0,7.3,25,On Track,78.0
+STU0694,12,Competitive Programming,AI-Assisted Learning,307,85.0,91.0,14.1,7,High Performer,96.8
+STU0695,11,University Preparation,FD Code Academy Offline Class,105,88.0,80.0,5.8,31,On Track,78.0
+STU0696,8,Web Development,FD Code Academy Online Class,239,88.0,82.0,8.6,10,High Performer,86.0
+STU0697,11,Data Science,Peer Study Group,159,72.0,67.0,6.2,21,On Track,65.0
+STU0698,Gap Year,Data Science,AI-Assisted Learning,46,67.0,56.0,4.8,4,On Track,78.0
+STU0699,8,Olympiad,Peer Study Group,196,80.0,59.0,6.8,13,On Track,68.1
+STU0700,8,Database,AI-Assisted Learning,75,67.0,84.0,3.8,6,On Track,78.0
+STU0701,10,Cyber Security,YouTube Video Tutorial,59,53.0,40.0,2.1,3,Needs Support,45.0
+STU0702,11,Olympiad,YouTube Video Tutorial,85,83.0,56.0,5.7,5,On Track,62.0
+STU0703,11,AI & Machine Learning,FD Code Academy Offline Class,276,100.0,99.0,9.1,49,High Performer,88.0
+STU0704,10,Python Foundation,YouTube Video Tutorial,68,62.0,51.0,4.7,2,On Track,62.0
+STU0705,8,Competitive Programming,FD Code Academy Online Class,288,100.0,93.0,9.7,11,High Performer,86.0
+STU0706,10,Linux,FD Code Academy Online Class,177,97.0,93.0,7.9,28,High Performer,86.0
+STU0707,11,Database,FD Code Academy Online Class,235,94.0,88.0,9.1,27,High Performer,86.0
+STU0708,11,University Preparation,YouTube Video Tutorial,18,36.0,54.0,0.6,2,Needs Support,45.0
+STU0709,8,Python Foundation,Peer Study Group,55,67.0,63.0,4.3,21,On Track,65.0
+STU0710,7,Web Development,YouTube Video Tutorial,88,57.0,65.0,4.2,2,On Track,62.0
+STU0711,Gap Year,Data Science,Peer Study Group,109,58.0,73.0,7.0,21,On Track,65.0
+STU0712,6,Python Foundation,AI-Assisted Learning,128,73.0,56.0,7.6,12,On Track,78.0
+STU0713,7,Python Foundation,AI-Assisted Learning,148,62.0,61.0,11.3,10,On Track,78.0
+STU0714,12,University Preparation,Peer Study Group,40,52.0,49.0,2.6,20,Needs Support,50.0
+STU0715,11,Database,FD Code Academy Online Class,94,89.0,72.0,4.9,21,On Track,75.0
+STU0716,12,Data Science,FD Code Academy Online Class,93,80.0,68.0,3.8,18,On Track,75.0
+STU0717,8,Competitive Programming,YouTube Video Tutorial,49,73.0,67.0,2.8,8,On Track,62.0
+STU0718,12,AI & Machine Learning,Peer Study Group,178,84.0,63.0,8.0,33,On Track,69.8
+STU0719,8,Python Foundation,AI-Assisted Learning,103,69.0,78.0,6.0,3,On Track,78.0
+STU0720,10,Cyber Security,AI-Assisted Learning,166,65.0,77.0,7.2,7,On Track,78.0
+STU0721,10,Web Development,Peer Study Group,75,54.0,61.0,5.0,38,On Track,65.0
+STU0722,8,Database,AI-Assisted Learning,133,62.0,78.0,11.6,7,On Track,78.0
+STU0723,8,Competitive Programming,FD Code Academy Online Class,134,78.0,68.0,6.8,22,On Track,75.0
+STU0724,11,AI & Machine Learning,Peer Study Group,28,63.0,46.0,1.4,20,Needs Support,50.0
+STU0253,11,Cyber Security,FD Code Academy Offline Class,309,92.0,93.0,11.2,43,High Performer,88.0
+STU0726,11,AI & Machine Learning,FD Code Academy Offline Class,138,80.0,84.0,7.7,24,On Track,78.0
+STU0727,12,University Preparation,FD Code Academy Offline Class,130,87.0,81.0,7.0,12,On Track,78.0
+STU0728,11,Linux,FD Code Academy Online Class,185,71.0,74.0,,12,On Track,75.0
+STU0729,12,Data Science,YouTube Video Tutorial,340,86.0,100.0,15.8,8,High Performer,89.4
+STU0730,9,Web Development,Peer Study Group,11,45.0,44.0,0.8,20,Needs Support,50.0
+STU0731,10,Competitive Programming,Peer Study Group,85,79.0,55.0,2.8,26,On Track,65.0
+STU0732,8,Web Development,AI-Assisted Learning,66,75.0,80.0,3.8,9,On Track,78.0
+STU0733,10,AI & Machine Learning,FD Code Academy Offline Class,205,94.0,95.0,8.4,35,High Performer,88.0
+STU0734,4,Python Foundation,YouTube Video Tutorial,86,65.0,54.0,4.6,7,On Track,62.0
+STU0735,6,Python Foundation,AI-Assisted Learning,238,92.0,74.0,12.6,9,High Performer,90.0
+STU0736,10,Web Development,YouTube Video Tutorial,34,78.0,71.0,2.5,7,On Track,62.0
+STU0737,10,Database,AI-Assisted Learning,127,63.0,72.0,9.6,3,On Track,78.0
+STU0738,11,AI & Machine Learning,FD Code Academy Offline Class,185,79.0,81.0,6.7,32,On Track,78.0
+STU0739,12,AI & Machine Learning,FD Code Academy Online Class,261,68.0,75.0,9.2,24,On Track,75.0
+STU0740,10,Web Development,YouTube Video Tutorial,37,33.0,56.0,3.0,7,Needs Support,45.0
+STU0741,10,Linux,FD Code Academy Online Class,209,92.0,90.0,8.1,28,High Performer,86.3
+STU0742,4,Python Foundation,YouTube Video Tutorial,130,77.0,78.0,8.9,8,High Performer,82.0
+STU0743,Gap Year,Cyber Security,Peer Study Group,42,59.0,52.0,2.6,20,Needs Support,50.0
+STU0744,6,Python Foundation,YouTube Video Tutorial,42,70.0,49.0,2.0,9,On Track,62.0
+STU0745,12,University Preparation,AI-Assisted Learning,77,75.0,73.0,5.2,4,On Track,78.0
+STU0746,11,Database,FD Code Academy Offline Class,243,80.0,87.0,9.4,15,On Track,78.0
+STU0747,12,Cyber Security,FD Code Academy Online Class,224,81.0,84.0,8.8,30,On Track,75.0
+STU0748,11,Competitive Programming,YouTube Video Tutorial,46,61.0,63.0,2.5,7,On Track,62.0
+STU0749,10,AI & Machine Learning,FD Code Academy Online Class,244,94.0,96.0,8.2,19,High Performer,86.0
+STU0750,12,University Preparation,YouTube Video Tutorial,16,49.0,42.0,1.1,5,Needs Support,45.0
+STU0751,Gap Year,AI & Machine Learning,FD Code Academy Online Class,216,95.0,97.0,7.5,30,High Performer,86.0
+STU0752,11,AI & Machine Learning,Peer Study Group,112,64.0,68.0,7.7,43,On Track,65.0
+STU0753,12,Competitive Programming,FD Code Academy Offline Class,196,78.0,76.0,7.6,11,On Track,78.0
+STU0754,9,AI & Machine Learning,YouTube Video Tutorial,109,72.0,73.0,5.2,2,On Track,62.0
+STU0755,7,Database,AI-Assisted Learning,118,50.0,,5.4,5,Needs Support,70.0
+STU0756,11,Web Development,FD Code Academy Online Class,127,72.0,84.0,7.2,29,On Track,75.0
+STU0757,7,Python Foundation,FD Code Academy Offline Class,139,77.0,68.0,7.6,37,On Track,78.0
+STU0758,12,Web Development,AI-Assisted Learning,79,58.0,51.0,3.8,2,Needs Support,70.0
+STU0759,10,Data Science,FD Code Academy Offline Class,327,85.0,90.0,12.4,16,High Performer,88.0
+STU0760,9,Python Foundation,FD Code Academy Online Class,87,76.0,81.0,3.5,18,On Track,75.0
+STU0761,9,Python Foundation,FD Code Academy Online Class,122,61.0,78.0,6.5,13,On Track,75.0
+STU0762,8,Web Development,YouTube Video Tutorial,56,73.0,62.0,4.3,7,On Track,62.0
+STU0763,7,Python Foundation,FD Code Academy Online Class,243,86.0,93.0,9.4,9,High Performer,86.0
+STU0764,12,Competitive Programming,FD Code Academy Online Class,339,100.0,100.0,10.6,19,High Performer,91.2
+STU0765,9,Python Foundation,FD Code Academy Offline Class,230,93.0,84.0,8.6,29,High Performer,88.0
+STU0766,7,Python Foundation,FD Code Academy Online Class,188,95.0,80.0,9.2,21,High Performer,86.0
+STU0767,12,University Preparation,YouTube Video Tutorial,61,38.0,51.0,2.1,0,Needs Support,45.0
+STU0768,10,Competitive Programming,YouTube Video Tutorial,80,61.0,64.0,3.3,9,On Track,62.0
+STU0769,9,Python Foundation,FD Code Academy Offline Class,202,65.0,80.0,7.9,32,On Track,78.0
+STU0770,12,Cyber Security,Peer Study Group,11,51.0,58.0,2.4,23,Needs Support,50.0
+STU0771,7,Competitive Programming,Peer Study Group,71,54.0,42.0,3.2,17,Needs Support,50.0
+STU0772,11,Competitive Programming,FD Code Academy Offline Class,210,79.0,83.0,6.4,31,On Track,78.0
+STU0773,10,Python Foundation,Peer Study Group,210,81.0,64.0,13.0,39,High Performer,82.0
+STU0774,12,Olympiad,FD Code Academy Offline Class,340,95.0,100.0,14.4,30,High Performer,96.6
+STU0775,12,Data Science,YouTube Video Tutorial,88,65.0,66.0,4.3,9,On Track,62.0
+STU0776,12,Cyber Security,FD Code Academy Offline Class,169,93.0,78.0,7.8,20,On Track,78.0
+STU0777,11,Database,FD Code Academy Offline Class,163,84.0,81.0,9.7,24,On Track,78.0
+STU0778,10,Database,FD Code Academy Online Class,84,75.0,72.0,3.2,28,On Track,75.0
+STU0779,6,Competitive Programming,FD Code Academy Online Class,144,74.0,66.0,7.7,22,On Track,75.0
+STU0780,9,Data Science,FD Code Academy Offline Class,269,87.0,81.0,9.8,39,On Track,79.7
+STU0781,12,University Preparation,YouTube Video Tutorial,61,53.0,54.0,4.5,7,On Track,62.0
+STU0782,12,Data Science,YouTube Video Tutorial,18,51.0,30.0,1.4,0,Needs Support,45.0
+STU0783,9,Data Science,AI-Assisted Learning,276,91.0,78.0,11.4,2,On Track,88.2
+STU0784,7,Database,FD Code Academy Online Class,87,,73.0,3.9,24,On Track,75.0
+STU0785,9,Olympiad,AI-Assisted Learning,266,60.0,71.0,9.9,6,On Track,78.0
+STU0786,9,Olympiad,Peer Study Group,159,81.0,58.0,7.2,18,On Track,65.0
+STU0787,11,Linux,YouTube Video Tutorial,122,75.0,61.0,7.4,2,On Track,62.0
+STU0788,9,Python Foundation,YouTube Video Tutorial,52,63.0,58.0,4.6,2,On Track,62.0
+STU0789,12,Database,Peer Study Group,56,77.0,79.0,5.1,17,On Track,65.0
+STU0790,8,Python Foundation,AI-Assisted Learning,31,39.0,44.0,4.9,6,Needs Support,70.0
+STU0791,12,AI & Machine Learning,AI-Assisted Learning,276,86.0,92.0,13.2,4,High Performer,95.2
+STU0792,6,Competitive Programming,YouTube Video Tutorial,115,71.0,62.0,3.8,2,On Track,62.0
+STU0793,7,Python Foundation,FD Code Academy Offline Class,128,76.0,78.0,6.0,19,On Track,78.0
+STU0794,Gap Year,Web Development,Peer Study Group,259,91.0,82.0,12.4,27,High Performer,82.0
+STU0795,12,AI & Machine Learning,Peer Study Group,46,49.0,55.0,2.4,12,Needs Support,50.0
+STU0796,7,Web Development,Peer Study Group,89,69.0,72.0,4.8,33,On Track,65.0
+STU0797,11,Data Science,YouTube Video Tutorial,15,60.0,33.0,1.1,0,Needs Support,45.0
+STU0798,10,Competitive Programming,FD Code Academy Online Class,124,83.0,70.0,6.8,12,On Track,75.0
+STU0799,10,Olympiad,FD Code Academy Online Class,154,85.0,89.0,5.8,23,On Track,75.0
+STU0800,7,Python Foundation,Peer Study Group,52,74.0,53.0,3.8,29,On Track,65.0
+STU0801,9,Database,AI-Assisted Learning,80,56.0,60.0,3.8,7,Needs Support,70.0
+STU0802,11,University Preparation,FD Code Academy Online Class,258,88.0,100.0,10.8,17,High Performer,86.0
+STU0803,9,Python Foundation,Peer Study Group,119,72.0,68.0,6.4,42,On Track,65.0
+STU0804,9,Database,AI-Assisted Learning,66,63.0,72.0,3.5,9,On Track,78.0
+STU0805,9,Python Foundation,AI-Assisted Learning,18,47.0,55.0,6.4,8,Needs Support,99.9
+STU0806,11,AI & Machine Learning,FD Code Academy Offline Class,115,84.0,78.0,4.3,10,On Track,78.0
+STU0807,5,Python Foundation,YouTube Video Tutorial,58,56.0,49.0,6.4,2,On Track,62.0
+STU0808,8,Python Foundation,YouTube Video Tutorial,61,63.0,66.0,6.3,4,On Track,62.0
+STU0809,11,Competitive Programming,FD Code Academy Offline Class,151,82.0,73.0,4.6,36,On Track,78.0
+STU0810,9,Python Foundation,Peer Study Group,17,53.0,29.0,1.4,16,Needs Support,50.0
+STU0811,Gap Year,University Preparation,AI-Assisted Learning,59,73.0,67.0,5.3,11,On Track,78.0
+STU0812,8,Data Science,YouTube Video Tutorial,134,76.0,72.0,7.2,2,On Track,62.0
+STU0813,8,Python Foundation,FD Code Academy Online Class,94,80.0,60.0,4.6,17,On Track,75.0
+STU0814,12,University Preparation,FD Code Academy Online Class,142,71.0,77.0,6.2,25,On Track,75.0
+STU0815,10,Olympiad,AI-Assisted Learning,100,75.0,77.0,6.2,4,On Track,78.0
+STU0816,12,Database,YouTube Video Tutorial,31,59.0,34.0,1.1,7,Needs Support,45.0
+STU0817,Gap Year,University Preparation,FD Code Academy Offline Class,162,67.0,80.0,6.2,33,On Track,78.0
+STU0818,7,Python Foundation,Peer Study Group,24,38.0,35.0,1.5,31,Needs Support,50.0
+STU0819,5,Python Foundation,FD Code Academy Online Class,174,80.0,66.0,8.2,30,On Track,75.0
+STU0820,10,Competitive Programming,Peer Study Group,123,70.0,69.0,4.9,33,On Track,65.0
+STU0821,8,Python Foundation,FD Code Academy Offline Class,246,88.0,100.0,11.6,45,High Performer,88.0
+STU0822,6,Python Foundation,Peer Study Group,96,63.0,74.0,3.8,33,On Track,65.0
+STU0823,7,Olympiad,FD Code Academy Offline Class,340,78.0,69.0,10.8,30,On Track,78.7
+STU0824,5,Python Foundation,YouTube Video Tutorial,59,71.0,50.0,5.7,6,On Track,62.0
+STU0825,12,University Preparation,FD Code Academy Offline Class,274,72.0,72.0,9.3,17,On Track,78.0
+STU0826,9,Data Science,FD Code Academy Offline Class,182,88.0,90.0,9.3,14,On Track,78.0
+STU0827,12,University Preparation,FD Code Academy Offline Class,250,85.0,99.0,8.6,20,High Performer,88.0
+STU0828,11,Data Science,Peer Study Group,58,72.0,67.0,3.0,30,On Track,65.0
+STU0829,5,Python Foundation,FD Code Academy Offline Class,237,85.0,84.0,11.6,32,High Performer,88.0
+STU0830,9,Web Development,AI-Assisted Learning,226,57.0,81.0,10.6,11,On Track,81.4
+STU0831,11,Web Development,FD Code Academy Online Class,212,94.0,84.0,9.8,19,High Performer,86.0
+STU0832,12,Data Science,FD Code Academy Offline Class,293,91.0,98.0,9.8,33,High Performer,88.0
+STU0833,10,Competitive Programming,YouTube Video Tutorial,58,56.0,58.0,3.0,5,Needs Support,45.6
+STU0834,7,Web Development,YouTube Video Tutorial,57,69.0,57.0,3.9,3,On Track,62.0
+STU0835,9,Database,AI-Assisted Learning,125,56.0,68.0,5.5,5,On Track,78.0
+STU0836,9,Python Foundation,AI-Assisted Learning,117,67.0,58.0,6.9,10,On Track,78.0
+STU0837,9,Competitive Programming,YouTube Video Tutorial,261,100.0,90.0,12.0,0,High Performer,82.0
+STU0838,12,Linux,YouTube Video Tutorial,107,79.0,68.0,6.1,0,On Track,62.0
+STU0839,10,AI & Machine Learning,YouTube Video Tutorial,29,60.0,56.0,0.5,1,Needs Support,45.0
+STU0840,8,Database,FD Code Academy Online Class,196,77.0,77.0,7.4,13,On Track,75.0
+STU0841,11,Cyber Security,Peer Study Group,89,72.0,69.0,2.9,35,On Track,65.0
+STU0842,12,Web Development,YouTube Video Tutorial,176,100.0,90.0,9.2,0,High Performer,82.0
+STU0843,7,Python Foundation,AI-Assisted Learning,35,38.0,44.0,1.5,2,Needs Support,70.0
+STU0844,12,Data Science,AI-Assisted Learning,35,61.0,61.0,2.8,2,Needs Support,70.0
+STU0845,9,Python Foundation,YouTube Video Tutorial,225,78.0,80.0,11.6,1,High Performer,82.0
+STU0846,11,Cyber Security,FD Code Academy Offline Class,195,88.0,82.0,5.8,37,On Track,78.0
+STU0847,Gap Year,Database,FD Code Academy Online Class,114,67.0,77.0,4.0,22,On Track,75.0
+STU0848,11,Linux,YouTube Video Tutorial,300,99.0,87.0,14.6,4,High Performer,85.1
+STU0849,7,Web Development,FD Code Academy Offline Class,255,86.0,100.0,9.9,39,High Performer,88.0
+STU0850,10,Cyber Security,FD Code Academy Offline Class,166,72.0,90.0,7.7,26,On Track,78.0
+STU0851,8,Olympiad,YouTube Video Tutorial,340,100.0,84.0,16.8,9,High Performer,92.5
+STU0852,8,Olympiad,FD Code Academy Online Class,184,80.0,70.0,6.3,26,On Track,75.0
+STU0853,11,Competitive Programming,FD Code Academy Online Class,271,100.0,,9.3,18,High Performer,92.8
+STU0854,11,AI & Machine Learning,YouTube Video Tutorial,69,56.0,55.0,2.4,2,Needs Support,45.0
+STU0855,Gap Year,AI & Machine Learning,FD Code Academy Offline Class,250,72.0,71.0,9.3,33,On Track,78.0
+STU0856,9,Web Development,Peer Study Group,103,64.0,78.0,6.2,28,On Track,65.0
+STU0857,9,Web Development,FD Code Academy Offline Class,241,95.0,92.0,8.9,37,High Performer,88.0
+STU0858,12,Olympiad,YouTube Video Tutorial,95,81.0,61.0,3.4,5,On Track,62.0
+STU0859,8,Web Development,Peer Study Group,83,60.0,77.0,4.2,15,On Track,65.0
+STU0860,10,Web Development,FD Code Academy Offline Class,249,91.0,94.0,10.8,42,High Performer,88.0
+STU0861,8,Competitive Programming,FD Code Academy Offline Class,311,80.0,86.0,8.6,79,On Track,96.2
+STU0862,8,Python Foundation,FD Code Academy Offline Class,368,82.0,95.0,13.8,89,High Performer,97.0
+STU0863,9,Olympiad,YouTube Video Tutorial,330,97.0,83.0,9.9,1,High Performer,82.1
+STU0864,12,AI & Machine Learning,AI-Assisted Learning,53,64.0,81.0,3.2,4,On Track,78.0
+STU0865,Gap Year,Web Development,YouTube Video Tutorial,125,81.0,78.0,7.5,9,High Performer,82.0
+STU0866,Gap Year,University Preparation,Peer Study Group,55,46.0,57.0,3.0,14,Needs Support,50.0
+STU0867,7,Olympiad,FD Code Academy Offline Class,314,95.0,100.0,10.1,26,High Performer,88.0
+STU0868,8,Python Foundation,YouTube Video Tutorial,182,83.0,69.0,12.1,11,High Performer,82.0
+STU0869,9,Python Foundation,FD Code Academy Online Class,123,63.0,61.0,8.1,20,On Track,75.0
+STU0870,Gap Year,Database,FD Code Academy Offline Class,189,81.0,84.0,7.1,20,On Track,78.0
+STU0871,7,Python Foundation,YouTube Video Tutorial,50,51.0,42.0,2.4,2,Needs Support,45.0
+STU0872,8,Competitive Programming,Peer Study Group,116,84.0,59.0,5.3,35,On Track,65.0
+STU0873,12,University Preparation,YouTube Video Tutorial,49,53.0,43.0,2.5,1,Needs Support,45.0
+STU0874,11,Data Science,FD Code Academy Offline Class,126,86.0,72.0,5.8,29,On Track,78.0
+STU0875,10,Data Science,Peer Study Group,496,52.0,53.0,34.5,69,Needs Support,63.3
+STU0876,10,AI & Machine Learning,YouTube Video Tutorial,71,79.0,68.0,2.8,8,On Track,62.0
+STU0877,10,AI & Machine Learning,FD Code Academy Online Class,130,72.0,69.0,5.2,10,On Track,75.0
+STU0878,12,Database,YouTube Video Tutorial,61,,31.0,2.6,6,Needs Support,45.0
+STU0879,11,University Preparation,AI-Assisted Learning,100,66.0,76.0,5.2,2,On Track,78.0
+STU0880,7,Python Foundation,FD Code Academy Online Class,106,80.0,73.0,6.1,20,On Track,75.0
+STU0881,12,Olympiad,Peer Study Group,74,74.0,62.0,5.0,37,On Track,65.0
+STU0882,11,University Preparation,AI-Assisted Learning,26,56.0,58.0,1.4,7,Needs Support,70.0
+STU0883,8,Python Foundation,YouTube Video Tutorial,386,44.0,39.0,33.5,29,Needs Support,50.3
+STU0884,10,Python Foundation,Peer Study Group,128,57.0,73.0,7.9,34,On Track,65.0
+STU0885,10,Database,YouTube Video Tutorial,61,50.0,30.0,1.6,0,Needs Support,45.0
+STU0886,5,Python Foundation,FD Code Academy Online Class,58,66.0,56.0,5.3,23,On Track,75.0
+STU0887,11,Data Science,YouTube Video Tutorial,105,78.0,61.0,8.1,4,On Track,62.0
+STU0888,12,Database,YouTube Video Tutorial,55,59.0,48.0,1.6,2,Needs Support,45.0
+STU0889,9,AI & Machine Learning,AI-Assisted Learning,76,60.0,55.0,3.0,1,Needs Support,70.0
+STU0890,9,Linux,AI-Assisted Learning,133,79.0,68.0,9.0,5,On Track,78.0
+STU0891,12,University Preparation,FD Code Academy Online Class,102,74.0,64.0,5.0,20,On Track,75.0
+STU0892,12,Data Science,FD Code Academy Online Class,296,97.0,97.0,9.8,28,High Performer,86.0
+STU0893,10,AI & Machine Learning,Peer Study Group,201,83.0,91.0,9.6,54,High Performer,82.0
+STU0894,11,Competitive Programming,YouTube Video Tutorial,85,65.0,74.0,3.6,4,On Track,62.0
+STU0895,11,AI & Machine Learning,FD Code Academy Offline Class,267,89.0,69.0,10.2,30,On Track,78.0
+STU0896,8,Competitive Programming,YouTube Video Tutorial,100,65.0,65.0,6.5,5,On Track,62.0
+STU0897,12,Linux,YouTube Video Tutorial,5,58.0,59.0,0.7,0,Needs Support,45.0
+STU0898,10,Database,FD Code Academy Online Class,110,77.0,70.0,5.0,30,On Track,75.0
+STU0899,11,Olympiad,FD Code Academy Online Class,208,83.0,84.0,8.8,11,On Track,77.3
+STU0900,10,University Preparation,AI-Assisted Learning,186,58.0,69.0,8.2,7,On Track,78.0
+STU0901,12,Web Development,YouTube Video Tutorial,340,86.0,92.0,13.2,7,High Performer,96.9
+STU0902,11,Cyber Security,FD Code Academy Offline Class,202,97.0,100.0,9.2,45,High Performer,88.0
+STU0903,10,Database,YouTube Video Tutorial,83,63.0,54.0,5.1,7,On Track,62.0
+STU0904,8,Olympiad,FD Code Academy Offline Class,219,100.0,90.0,9.8,21,High Performer,88.0
+STU0905,5,Python Foundation,Peer Study Group,67,79.0,50.0,6.2,32,On Track,65.0
+STU0906,11,Data Science,FD Code Academy Offline Class,333,89.0,84.0,11.1,18,High Performer,88.0
+STU0907,9,Database,YouTube Video Tutorial,124,76.0,59.0,5.6,9,On Track,62.0
+STU0908,12,AI & Machine Learning,YouTube Video Tutorial,196,80.0,89.0,9.7,1,High Performer,82.0
+STU0909,11,Database,Peer Study Group,281,80.0,91.0,11.9,58,High Performer,84.5
+STU0910,11,Competitive Programming,FD Code Academy Offline Class,261,83.0,71.0,8.4,35,On Track,78.0
+STU0911,11,University Preparation,FD Code Academy Online Class,213,93.0,84.0,12.2,34,High Performer,86.0
+STU0912,10,Database,FD Code Academy Online Class,84,73.0,74.0,3.1,31,On Track,75.0
+STU0913,4,Python Foundation,FD Code Academy Offline Class,227,92.0,88.0,12.0,29,High Performer,88.0
+STU0914,9,Web Development,FD Code Academy Offline Class,310,94.0,98.0,12.2,37,High Performer,88.0
+STU0915,10,Competitive Programming,FD Code Academy Online Class,242,100.0,96.0,9.0,27,High Performer,86.4
+STU0916,12,AI & Machine Learning,YouTube Video Tutorial,46,59.0,39.0,2.2,2,Needs Support,45.0
+STU0917,11,University Preparation,AI-Assisted Learning,69,54.0,64.0,2.0,9,Needs Support,70.0
+STU0918,10,Web Development,AI-Assisted Learning,54,53.0,59.0,3.2,1,Needs Support,70.0
+STU0919,9,Python Foundation,YouTube Video Tutorial,97,69.0,49.0,4.8,5,On Track,62.0
+STU0920,8,Python Foundation,FD Code Academy Online Class,133,78.0,65.0,8.9,17,On Track,75.0
+STU0921,11,Linux,YouTube Video Tutorial,8,51.0,36.0,1.4,4,Needs Support,45.0
+STU0922,10,Web Development,Peer Study Group,122,79.0,63.0,6.5,47,On Track,69.9
+STU0923,12,Olympiad,YouTube Video Tutorial,81,63.0,71.0,3.2,7,On Track,62.0
+STU0924,7,Python Foundation,FD Code Academy Offline Class,121,85.0,74.0,7.0,25,On Track,78.0
+STU0925,12,University Preparation,YouTube Video Tutorial,20,37.0,52.0,1.2,0,Needs Support,45.0
+STU0926,10,Olympiad,Peer Study Group,41,53.0,56.0,1.6,23,Needs Support,50.0
+STU0927,10,Web Development,FD Code Academy Online Class,114,83.0,80.0,4.5,18,On Track,75.0
+STU0928,11,Linux,FD Code Academy Online Class,300,90.0,91.0,11.7,28,High Performer,86.0
+STU0929,10,Olympiad,AI-Assisted Learning,113,,65.0,3.8,6,Needs Support,70.0
+STU0930,9,Cyber Security,Peer Study Group,33,66.0,59.0,2.4,28,On Track,65.0
+STU0931,6,Python Foundation,Peer Study Group,95,57.0,46.0,5.4,35,On Track,65.0
+STU0388,10,Data Science,AI-Assisted Learning,340,94.0,82.0,17.4,11,High Performer,97.2
+STU0933,10,University Preparation,FD Code Academy Online Class,133,82.0,68.0,7.2,25,On Track,75.0
+STU0934,9,Database,YouTube Video Tutorial,97,58.0,76.0,4.6,4,On Track,62.0
+STU0935,10,AI & Machine Learning,FD Code Academy Online Class,113,80.0,88.0,5.5,19,On Track,75.0
+STU0936,11,Web Development,FD Code Academy Online Class,181,96.0,100.0,7.5,23,High Performer,86.0
+STU0937,11,Competitive Programming,FD Code Academy Online Class,236,71.0,85.0,8.4,17,On Track,75.0
+STU0938,8,Data Science,Peer Study Group,185,94.0,78.0,8.1,51,High Performer,82.0
+STU0939,7,Web Development,Peer Study Group,9,40.0,47.0,1.1,23,Needs Support,50.0
+STU0940,10,Linux,FD Code Academy Offline Class,218,98.0,98.0,11.3,41,High Performer,88.0
+STU0941,12,Olympiad,AI-Assisted Learning,68,61.0,47.0,2.5,0,Needs Support,70.0
+STU0942,9,Data Science,YouTube Video Tutorial,71,67.0,64.0,4.0,0,On Track,62.0
+STU0943,11,Competitive Programming,FD Code Academy Online Class,245,75.0,65.0,8.5,20,On Track,75.0
+STU0944,12,Competitive Programming,FD Code Academy Online Class,205,83.0,67.0,6.5,18,On Track,75.0
+STU0945,Gap Year,Cyber Security,Peer Study Group,23,60.0,56.0,1.1,14,Needs Support,50.0
+STU0946,11,University Preparation,FD Code Academy Offline Class,247,90.0,100.0,9.2,23,High Performer,88.0
+STU0947,12,Data Science,FD Code Academy Online Class,317,95.0,99.0,9.9,19,High Performer,86.2
+STU0948,11,AI & Machine Learning,Peer Study Group,340,93.0,82.0,12.8,50,High Performer,95.0
+STU0949,7,Olympiad,FD Code Academy Offline Class,300,89.0,85.0,9.6,37,On Track,88.3
+STU0950,10,Cyber Security,YouTube Video Tutorial,41,47.0,51.0,1.1,1,Needs Support,45.0
+STU0951,8,Python Foundation,AI-Assisted Learning,52,40.0,39.0,5.9,7,Needs Support,70.0
+STU0952,12,Data Science,Peer Study Group,258,79.0,87.0,12.3,55,High Performer,82.0
+STU0953,12,Competitive Programming,FD Code Academy Online Class,166,88.0,75.0,6.6,20,On Track,75.0
+STU0954,12,University Preparation,FD Code Academy Offline Class,318,89.0,100.0,13.2,37,High Performer,90.0
+STU0955,11,AI & Machine Learning,FD Code Academy Offline Class,206,84.0,88.0,10.1,35,On Track,78.0
+STU0956,Gap Year,Cyber Security,AI-Assisted Learning,37,52.0,64.0,2.5,2,Needs Support,70.0
+STU0957,9,Competitive Programming,YouTube Video Tutorial,168,74.0,52.0,5.7,3,On Track,62.0
+STU0958,11,AI & Machine Learning,FD Code Academy Offline Class,263,81.0,73.0,10.2,25,On Track,78.0
+STU0959,10,Data Science,FD Code Academy Online Class,246,94.0,92.0,8.1,23,High Performer,86.0
+STU0960,5,Python Foundation,YouTube Video Tutorial,20,56.0,38.0,1.6,0,Needs Support,45.0
+STU0961,9,Linux,FD Code Academy Offline Class,181,90.0,100.0,9.8,27,High Performer,88.0
+STU0876,10,AI & Machine Learning,YouTube Video Tutorial,100,70.0,74.0,6.8,6,On Track,62.0
+STU0963,12,Cyber Security,FD Code Academy Offline Class,157,89.0,69.0,6.5,12,On Track,78.0
+STU0964,12,University Preparation,Peer Study Group,44,44.0,43.0,2.0,19,Needs Support,50.0
+STU0965,8,Database,FD Code Academy Online Class,179,87.0,95.0,8.8,28,High Performer,86.0
+STU0966,11,Database,AI-Assisted Learning,120,64.0,74.0,9.1,6,On Track,78.0
+STU0967,8,Linux,Peer Study Group,84,57.0,78.0,6.0,37,On Track,65.0
+STU0968,5,Python Foundation,AI-Assisted Learning,90,59.0,40.0,5.6,3,Needs Support,70.0
+STU0969,10,Database,YouTube Video Tutorial,36,47.0,27.0,1.7,4,Needs Support,45.0
+STU0970,12,AI & Machine Learning,Peer Study Group,87,85.0,69.0,4.0,28,On Track,65.0
+STU0971,Gap Year,University Preparation,FD Code Academy Online Class,243,87.0,84.0,9.2,27,High Performer,86.0
+STU0972,12,University Preparation,Peer Study Group,77,51.0,55.0,4.3,40,On Track,65.0
+STU0973,10,Web Development,YouTube Video Tutorial,56,32.0,42.0,2.9,2,Needs Support,45.0
+STU0974,9,Database,FD Code Academy Online Class,215,83.0,74.0,7.7,14,On Track,75.0
+STU0975,8,Competitive Programming,FD Code Academy Offline Class,111,96.0,78.0,5.7,9,On Track,78.0
+STU0976,9,AI & Machine Learning,Peer Study Group,22,,39.0,1.6,23,Needs Support,50.0
+STU0977,10,Web Development,YouTube Video Tutorial,237,92.0,93.0,13.2,10,High Performer,86.9
+STU0978,12,University Preparation,YouTube Video Tutorial,75,45.0,49.0,3.1,2,Needs Support,45.0
+STU0979,10,Database,FD Code Academy Offline Class,191,74.0,83.0,8.8,19,On Track,78.0
+STU0980,10,Database,AI-Assisted Learning,82,66.0,72.0,5.9,11,On Track,78.0
+STU0981,11,University Preparation,YouTube Video Tutorial,31,37.0,47.0,2.9,7,Needs Support,45.0
+STU0982,11,University Preparation,AI-Assisted Learning,78,49.0,53.0,7.7,6,Needs Support,99.8
+STU0983,10,Web Development,YouTube Video Tutorial,48,54.0,32.0,0.9,2,Needs Support,45.0
+STU0984,12,University Preparation,Peer Study Group,153,66.0,79.0,7.8,35,On Track,65.0
+STU0985,9,Olympiad,Peer Study Group,46,58.0,42.0,2.4,9,Needs Support,50.0
+STU0986,12,Web Development,FD Code Academy Online Class,201,97.0,90.0,9.2,26,High Performer,86.0
+STU0987,10,University Preparation,Peer Study Group,37,60.0,39.0,2.8,17,Needs Support,50.0
+STU0988,9,Web Development,AI-Assisted Learning,61,48.0,51.0,2.0,6,Needs Support,70.0
+STU0989,6,Python Foundation,Peer Study Group,13,54.0,41.0,1.1,10,Needs Support,50.0
+STU0990,12,Data Science,Peer Study Group,111,70.0,70.0,5.7,13,On Track,65.0
+STU0991,Gap Year,University Preparation,FD Code Academy Offline Class,254,94.0,89.0,13.6,27,High Performer,93.4
+STU0992,11,Web Development,FD Code Academy Online Class,236,91.0,95.0,7.8,38,High Performer,86.0
+STU0993,11,University Preparation,Peer Study Group,46,50.0,45.0,1.8,29,Needs Support,50.0
+STU0994,12,Linux,FD Code Academy Offline Class,303,90.0,100.0,12.7,42,High Performer,90.2
+STU0995,12,Data Science,YouTube Video Tutorial,14,44.0,36.0,1.2,0,Needs Support,45.0
+STU0996,11,Data Science,FD Code Academy Offline Class,210,99.0,81.0,8.4,39,High Performer,88.0
+STU0997,6,Olympiad,AI-Assisted Learning,39,64.0,63.0,2.4,2,Needs Support,70.0
+STU0998,7,Python Foundation,YouTube Video Tutorial,54,50.0,40.0,2.8,2,Needs Support,45.0
+STU0999,12,University Preparation,YouTube Video Tutorial,186,93.0,96.0,10.2,5,High Performer,82.0
+STU1000,6,Python Foundation,FD Code Academy Offline Class,132,67.0,71.0,9.2,36,On Track,78.0
+STU1001,8,Olympiad,AI-Assisted Learning,124,54.0,58.0,5.8,6,Needs Support,70.0
+STU1002,8,Cyber Security,FD Code Academy Online Class,130,69.0,87.0,6.8,7,On Track,75.0
+STU1003,9,Python Foundation,FD Code Academy Online Class,177,92.0,91.0,7.5,32,High Performer,86.0
+STU1004,9,Competitive Programming,YouTube Video Tutorial,202,71.0,72.0,8.1,8,On Track,63.0
+STU1005,10,Python Foundation,YouTube Video Tutorial,24,29.0,55.0,2.3,5,Needs Support,45.0
+STU1006,6,Python Foundation,FD Code Academy Online Class,221,82.0,72.0,9.3,34,High Performer,86.0
+STU1007,10,Competitive Programming,FD Code Academy Offline Class,325,91.0,98.0,9.7,50,High Performer,88.0
+STU1008,12,Linux,YouTube Video Tutorial,149,79.0,77.0,8.0,2,On Track,62.7
+STU1009,7,Database,FD Code Academy Offline Class,279,,91.0,10.4,40,High Performer,90.8
+STU1010,12,AI & Machine Learning,YouTube Video Tutorial,27,60.0,56.0,2.4,3,Needs Support,45.0
+STU1011,11,University Preparation,YouTube Video Tutorial,96,58.0,61.0,6.3,4,On Track,62.0
+STU1012,Gap Year,Data Science,FD Code Academy Offline Class,277,100.0,99.0,9.6,20,High Performer,90.9
+STU1013,7,Python Foundation,FD Code Academy Online Class,109,65.0,64.0,8.4,18,On Track,75.0
+STU1014,8,Python Foundation,FD Code Academy Online Class,136,69.0,,7.2,8,On Track,75.0
+STU1015,11,University Preparation,FD Code Academy Offline Class,106,89.0,68.0,4.5,27,On Track,78.0
+STU1016,7,Competitive Programming,FD Code Academy Online Class,248,100.0,94.0,10.4,21,High Performer,86.0
+STU1017,12,Olympiad,Peer Study Group,200,96.0,82.0,9.1,30,High Performer,82.0
+STU1018,10,Competitive Programming,YouTube Video Tutorial,95,48.0,46.0,3.4,4,Needs Support,45.0
+STU1019,11,Web Development,FD Code Academy Online Class,130,,73.0,8.2,8,On Track,75.0
+STU1020,11,Web Development,FD Code Academy Offline Class,144,73.0,91.0,7.8,11,On Track,78.0
+STU1021,Gap Year,Data Science,Peer Study Group,49,60.0,63.0,2.4,38,On Track,65.0
+STU1022,10,Cyber Security,YouTube Video Tutorial,158,83.0,89.0,8.9,2,High Performer,82.0
+STU1023,Gap Year,Data Science,FD Code Academy Online Class,195,86.0,78.0,7.5,12,On Track,75.0
+STU1024,10,Cyber Security,YouTube Video Tutorial,53,51.0,45.0,3.1,2,Needs Support,45.0
+STU1025,12,Web Development,AI-Assisted Learning,64,63.0,49.0,5.8,0,Needs Support,70.0
+STU1026,9,Web Development,AI-Assisted Learning,101,48.0,55.0,6.2,3,Needs Support,70.0
+STU1027,7,Database,YouTube Video Tutorial,34,63.0,28.0,1.9,2,Needs Support,45.0
+STU1028,9,Competitive Programming,YouTube Video Tutorial,26,52.0,33.0,0.9,0,Needs Support,45.0
+STU1029,10,Competitive Programming,AI-Assisted Learning,309,69.0,86.0,10.8,5,On Track,83.8
+STU1030,11,Linux,FD Code Academy Online Class,113,77.0,78.0,3.3,22,On Track,75.0
+STU1031,11,Data Science,Peer Study Group,315,92.0,79.0,11.9,43,High Performer,85.8
+STU1032,11,University Preparation,FD Code Academy Online Class,220,100.0,94.0,10.7,35,High Performer,86.0
+STU1033,10,AI & Machine Learning,Peer Study Group,81,74.0,76.0,5.3,42,On Track,65.0
+STU1034,9,Python Foundation,Peer Study Group,27,50.0,33.0,1.8,16,Needs Support,50.0
+STU1035,6,Python Foundation,YouTube Video Tutorial,68,64.0,53.0,4.5,3,On Track,62.0
+STU1036,10,AI & Machine Learning,FD Code Academy Offline Class,166,74.0,87.0,6.2,35,On Track,78.0
+STU1037,10,Python Foundation,YouTube Video Tutorial,37,49.0,57.0,2.1,6,On Track,62.0
+STU1038,11,Linux,FD Code Academy Online Class,286,82.0,93.0,10.2,23,High Performer,86.0
+STU1039,12,Competitive Programming,YouTube Video Tutorial,33,57.0,47.0,1.1,2,Needs Support,45.0
+STU1040,10,Database,FD Code Academy Offline Class,208,87.0,84.0,9.0,15,On Track,78.0
+STU1041,9,Linux,YouTube Video Tutorial,141,59.0,57.0,7.5,8,On Track,62.0
+STU1042,8,Linux,YouTube Video Tutorial,53,54.0,63.0,2.7,4,Needs Support,45.0
+STU1043,12,Data Science,AI-Assisted Learning,12,54.0,54.0,1.4,7,Needs Support,70.0
+STU1044,11,Web Development,AI-Assisted Learning,30,55.0,84.0,4.8,1,On Track,78.0
+STU1045,5,Python Foundation,YouTube Video Tutorial,5,56.0,25.0,0.9,2,Needs Support,45.0
+STU1046,10,Database,AI-Assisted Learning,157,78.0,75.0,8.7,4,On Track,78.0
+STU1047,11,Cyber Security,YouTube Video Tutorial,236,87.0,91.0,11.4,8,High Performer,85.2
+STU1048,11,Database,FD Code Academy Offline Class,137,90.0,69.0,5.3,19,On Track,78.0
+STU1049,7,Python Foundation,AI-Assisted Learning,98,72.0,53.0,8.7,8,On Track,78.0
+STU1050,9,Competitive Programming,AI-Assisted Learning,206,74.0,80.0,8.5,5,On Track,82.1
+STU1051,11,Data Science,AI-Assisted Learning,93,48.0,50.0,6.1,0,Needs Support,99.3
+STU1052,7,Database,Peer Study Group,56,77.0,63.0,3.8,26,On Track,65.0
+STU1053,9,Database,Peer Study Group,86,55.0,59.0,5.1,21,On Track,65.0
+STU1054,9,Data Science,FD Code Academy Online Class,266,95.0,97.0,8.7,25,High Performer,86.0
+STU1055,10,AI & Machine Learning,FD Code Academy Offline Class,219,76.0,75.0,7.5,34,On Track,78.0
+STU1056,10,AI & Machine Learning,YouTube Video Tutorial,275,88.0,95.0,14.1,9,High Performer,86.2
+STU1057,10,Web Development,FD Code Academy Offline Class,240,85.0,98.0,8.4,51,High Performer,88.0
+STU1058,11,AI & Machine Learning,AI-Assisted Learning,124,48.0,56.0,6.2,8,Needs Support,70.0
+STU1059,Gap Year,University Preparation,AI-Assisted Learning,80,54.0,46.0,5.3,3,Needs Support,70.0
+STU1060,12,Cyber Security,YouTube Video Tutorial,340,91.0,88.0,14.2,6,High Performer,82.0
+STU1061,10,Competitive Programming,AI-Assisted Learning,57,63.0,59.0,2.2,3,Needs Support,70.0
+STU1062,7,Python Foundation,AI-Assisted Learning,31,52.0,44.0,1.0,8,Needs Support,70.0
+STU1063,10,Data Science,Peer Study Group,153,64.0,58.0,7.8,28,On Track,65.0
+STU1064,11,Competitive Programming,FD Code Academy Online Class,113,86.0,72.0,4.1,19,On Track,75.0
+STU1065,12,Database,AI-Assisted Learning,112,54.0,47.0,5.2,9,Needs Support,70.0
+STU1066,11,Database,YouTube Video Tutorial,31,51.0,42.0,2.3,3,Needs Support,45.0
+STU1067,12,University Preparation,Peer Study Group,160,78.0,68.0,6.0,20,On Track,65.0
+STU1068,9,Competitive Programming,AI-Assisted Learning,156,61.0,59.0,5.7,6,Needs Support,70.0
+STU1069,7,Olympiad,YouTube Video Tutorial,48,58.0,54.0,2.0,0,Needs Support,45.0
+STU1070,11,Competitive Programming,AI-Assisted Learning,86,56.0,57.0,3.5,1,Needs Support,70.0
+STU1071,8,AI & Machine Learning,Peer Study Group,30,83.0,69.0,2.4,16,On Track,65.0
+STU1072,10,AI & Machine Learning,YouTube Video Tutorial,23,69.0,27.0,1.1,5,Needs Support,45.0
+STU1073,10,Data Science,Peer Study Group,151,82.0,62.0,7.3,28,On Track,65.0
+STU1074,10,Web Development,FD Code Academy Online Class,98,85.0,88.0,4.2,29,On Track,75.0
+STU1075,9,Python Foundation,AI-Assisted Learning,340,82.0,84.0,16.6,4,High Performer,94.4
+STU1076,12,Data Science,YouTube Video Tutorial,314,88.0,95.0,12.7,7,High Performer,82.0
+STU1077,7,Web Development,YouTube Video Tutorial,43,70.0,76.0,2.9,6,On Track,62.0
+STU1078,5,Python Foundation,FD Code Academy Online Class,81,64.0,66.0,3.2,14,On Track,75.0
+STU1079,7,Database,FD Code Academy Offline Class,151,90.0,91.0,5.2,16,On Track,78.0
+STU1080,12,Cyber Security,YouTube Video Tutorial,177,71.0,63.0,8.2,7,On Track,62.0
+STU1081,12,University Preparation,FD Code Academy Offline Class,270,91.0,96.0,9.8,50,High Performer,88.0
+STU1082,Gap Year,University Preparation,FD Code Academy Offline Class,157,80.0,76.0,8.1,29,On Track,78.0
+STU1083,8,Data Science,YouTube Video Tutorial,41,62.0,54.0,3.0,2,Needs Support,45.0
+STU1084,8,Python Foundation,AI-Assisted Learning,61,55.0,65.0,4.3,10,On Track,78.0
+STU1085,6,Competitive Programming,FD Code Academy Online Class,155,90.0,78.0,4.9,30,On Track,75.0
+STU1086,12,University Preparation,FD Code Academy Online Class,104,75.0,65.0,5.3,26,On Track,75.0
+STU1087,7,Linux,Peer Study Group,30,65.0,59.0,2.6,32,On Track,65.0
+STU1088,8,Web Development,FD Code Academy Online Class,232,89.0,89.0,8.8,24,High Performer,86.0
+STU1089,7,Python Foundation,FD Code Academy Online Class,117,85.0,80.0,8.9,25,On Track,75.0
+STU1090,10,AI & Machine Learning,AI-Assisted Learning,72,48.0,60.0,4.2,5,Needs Support,70.0
+STU1091,10,Cyber Security,AI-Assisted Learning,88,42.0,62.0,4.5,0,Needs Support,70.0
+STU1092,11,Cyber Security,Peer Study Group,60,80.0,62.0,4.3,36,On Track,65.0
+STU1093,9,Database,Peer Study Group,136,96.0,78.0,8.2,53,High Performer,82.0
+STU1094,11,AI & Machine Learning,FD Code Academy Online Class,120,87.0,79.0,4.3,11,On Track,75.0
+STU1095,9,Python Foundation,FD Code Academy Online Class,80,74.0,75.0,3.7,9,On Track,75.0
+STU1096,7,Competitive Programming,FD Code Academy Online Class,170,88.0,80.0,4.6,12,On Track,75.0
+STU1097,11,Data Science,YouTube Video Tutorial,340,97.0,80.0,15.2,1,High Performer,82.3
+STU1098,11,AI & Machine Learning,FD Code Academy Offline Class,139,83.0,84.0,6.2,40,On Track,78.0
+STU1099,Gap Year,AI & Machine Learning,YouTube Video Tutorial,99,78.0,68.0,4.8,4,On Track,62.0
+STU1100,12,Cyber Security,YouTube Video Tutorial,222,96.0,92.0,11.7,9,High Performer,82.0
+STU1101,9,AI & Machine Learning,FD Code Academy Offline Class,264,96.0,87.0,12.2,43,High Performer,88.0
+STU1102,8,Web Development,FD Code Academy Offline Class,166,86.0,82.0,6.7,19,On Track,78.0
+STU1103,Gap Year,University Preparation,YouTube Video Tutorial,37,57.0,50.0,2.6,3,Needs Support,45.0
+STU1104,8,Competitive Programming,FD Code Academy Online Class,340,88.0,88.0,12.5,23,High Performer,88.7
+STU1105,11,AI & Machine Learning,FD Code Academy Online Class,135,87.0,67.0,5.8,19,On Track,75.0
+STU1106,10,Python Foundation,YouTube Video Tutorial,67,60.0,58.0,4.1,1,On Track,62.0
+STU1107,8,Web Development,FD Code Academy Offline Class,250,92.0,92.0,10.2,22,High Performer,88.0
+STU1108,12,Linux,FD Code Academy Offline Class,147,81.0,86.0,6.7,32,On Track,78.0
+STU1109,10,Database,Peer Study Group,60,52.0,50.0,2.4,18,Needs Support,50.0
+STU1110,11,Data Science,YouTube Video Tutorial,340,87.0,87.0,16.1,3,High Performer,90.1
+STU1111,11,Linux,YouTube Video Tutorial,154,93.0,96.0,11.3,2,High Performer,86.3
+STU1112,9,Python Foundation,YouTube Video Tutorial,88,72.0,58.0,7.6,7,On Track,62.0
+STU1113,11,Competitive Programming,AI-Assisted Learning,225,71.0,82.0,10.1,8,On Track,82.9
+STU1114,9,Olympiad,YouTube Video Tutorial,257,98.0,86.0,10.8,9,High Performer,82.5
+STU1115,11,Linux,AI-Assisted Learning,103,56.0,61.0,4.9,8,On Track,78.0
+STU1116,12,AI & Machine Learning,AI-Assisted Learning,169,79.0,61.0,7.0,11,On Track,78.0
+STU1117,11,Data Science,FD Code Academy Offline Class,291,91.0,88.0,11.8,45,High Performer,88.0
+STU1118,7,Python Foundation,YouTube Video Tutorial,23,38.0,44.0,0.6,6,Needs Support,45.0
+STU1119,11,Web Development,Peer Study Group,143,92.0,84.0,8.3,30,High Performer,82.0
+STU1120,8,Web Development,FD Code Academy Online Class,226,85.0,90.0,11.2,30,High Performer,86.0
+STU1121,11,Database,YouTube Video Tutorial,84,66.0,78.0,4.6,4,On Track,62.0
+STU1122,11,AI & Machine Learning,YouTube Video Tutorial,78,75.0,49.0,3.2,9,On Track,62.0
+STU1123,8,Olympiad,AI-Assisted Learning,62,50.0,69.0,2.0,3,Needs Support,70.0
+STU1124,10,Linux,YouTube Video Tutorial,63,47.0,46.0,2.2,6,Needs Support,47.7
+STU1125,10,AI & Machine Learning,Peer Study Group,91,69.0,76.0,4.8,41,On Track,65.0
+STU1126,7,Competitive Programming,Peer Study Group,98,79.0,71.0,4.6,17,On Track,65.0
+STU1127,7,Python Foundation,YouTube Video Tutorial,21,53.0,33.0,1.3,5,Needs Support,45.0
+STU1128,11,Competitive Programming,AI-Assisted Learning,147,71.0,88.0,8.3,8,On Track,78.0
+STU1129,11,Olympiad,YouTube Video Tutorial,168,86.0,80.0,6.3,0,On Track,70.4
+STU1130,12,Web Development,YouTube Video Tutorial,111,66.0,80.0,6.7,5,On Track,66.1
+STU1131,12,Web Development,Peer Study Group,7,44.0,41.0,1.9,18,Needs Support,50.0
+STU1132,12,Linux,AI-Assisted Learning,139,,70.0,9.7,3,On Track,78.0
+STU1133,11,Database,FD Code Academy Offline Class,144,94.0,69.0,8.3,26,On Track,78.0
+STU1134,10,Data Science,FD Code Academy Online Class,169,65.0,73.0,7.2,16,On Track,75.0
+STU1135,11,Database,Peer Study Group,60,70.0,59.0,2.5,18,On Track,65.0
+STU1136,8,AI & Machine Learning,AI-Assisted Learning,68,58.0,47.0,3.5,4,Needs Support,70.0
+STU1137,9,Cyber Security,FD Code Academy Online Class,86,78.0,72.0,4.0,13,On Track,75.0
+STU1138,10,AI & Machine Learning,AI-Assisted Learning,127,55.0,51.0,6.0,2,Needs Support,70.0
+STU1139,12,Olympiad,FD Code Academy Online Class,319,100.0,99.0,8.2,12,High Performer,86.0
+STU1140,9,Linux,YouTube Video Tutorial,69,59.0,72.0,5.4,2,On Track,62.0
+STU1141,11,Data Science,YouTube Video Tutorial,35,49.0,47.0,1.6,4,Needs Support,45.0
+STU1142,8,Python Foundation,Peer Study Group,32,70.0,51.0,2.4,30,On Track,65.0
+STU1143,11,Web Development,FD Code Academy Online Class,280,91.0,94.0,9.2,21,High Performer,86.0
+STU1144,11,Cyber Security,AI-Assisted Learning,191,65.0,63.0,12.2,0,On Track,78.0
+STU1145,7,Web Development,Peer Study Group,37,52.0,39.0,1.1,22,Needs Support,50.0
+STU1146,Gap Year,Data Science,FD Code Academy Online Class,131,76.0,80.0,5.5,26,On Track,75.0
+STU1147,11,Data Science,Peer Study Group,166,78.0,53.0,6.7,28,On Track,65.0
+STU1148,4,Python Foundation,Peer Study Group,56,54.0,66.0,3.0,18,On Track,65.0
+STU1149,12,Competitive Programming,Peer Study Group,167,83.0,64.0,5.9,43,On Track,65.0
+STU1150,10,Cyber Security,AI-Assisted Learning,300,78.0,100.0,16.4,3,High Performer,96.4
+STU1151,9,Database,YouTube Video Tutorial,97,60.0,68.0,5.1,7,On Track,62.0
+STU1152,12,Linux,FD Code Academy Online Class,130,86.0,75.0,8.4,26,On Track,75.0
+STU1153,7,Python Foundation,YouTube Video Tutorial,303,79.0,78.0,15.4,8,High Performer,82.0
+STU1154,12,Database,AI-Assisted Learning,149,67.0,78.0,7.2,2,On Track,78.0
+STU1155,11,Database,YouTube Video Tutorial,18,34.0,50.0,2.9,4,Needs Support,45.0
+STU1156,12,University Preparation,AI-Assisted Learning,56,71.0,57.0,4.5,4,On Track,78.0
+STU1157,11,AI & Machine Learning,FD Code Academy Offline Class,149,86.0,75.0,4.2,15,On Track,78.0
+STU1158,11,Cyber Security,Peer Study Group,94,71.0,69.0,4.0,13,On Track,65.0
+STU1159,10,Database,Peer Study Group,93,80.0,71.0,7.0,15,On Track,65.0
+STU1160,8,Python Foundation,FD Code Academy Offline Class,262,85.0,91.0,13.0,30,High Performer,88.0
+STU1161,12,University Preparation,FD Code Academy Offline Class,127,87.0,80.0,6.0,11,On Track,78.0
+STU1162,11,Cyber Security,FD Code Academy Online Class,166,70.0,75.0,8.7,22,On Track,75.0
+STU1163,9,Linux,YouTube Video Tutorial,38,66.0,33.0,2.5,2,Needs Support,45.0
+STU1164,8,Competitive Programming,Peer Study Group,8,50.0,44.0,1.4,19,Needs Support,50.0
+STU1165,12,Data Science,FD Code Academy Offline Class,209,84.0,76.0,7.5,25,On Track,78.0
+STU1166,11,AI & Machine Learning,Peer Study Group,38,46.0,52.0,2.8,17,Needs Support,50.0
+STU1167,6,Olympiad,AI-Assisted Learning,99,49.0,52.0,2.9,8,Needs Support,70.0
+STU1168,12,Data Science,YouTube Video Tutorial,58,74.0,56.0,4.5,4,On Track,62.0
+STU1169,12,Data Science,YouTube Video Tutorial,61,47.0,33.0,2.6,5,Needs Support,45.0
+STU1170,12,University Preparation,FD Code Academy Offline Class,340,93.0,91.0,13.3,27,High Performer,91.2
+STU1171,11,University Preparation,FD Code Academy Online Class,84,74.0,75.0,5.7,15,On Track,75.0
+STU1172,10,Competitive Programming,FD Code Academy Offline Class,192,93.0,76.0,9.7,28,On Track,78.0
+STU1173,12,Data Science,Peer Study Group,241,84.0,86.0,12.2,38,High Performer,82.0
+STU1174,11,AI & Machine Learning,FD Code Academy Online Class,108,77.0,63.0,4.5,20,On Track,75.0
+STU1175,12,Linux,FD Code Academy Online Class,141,79.0,81.0,8.8,22,On Track,75.0
+STU1176,9,Cyber Security,Peer Study Group,48,58.0,52.0,1.2,32,Needs Support,50.0
+STU1177,12,University Preparation,FD Code Academy Offline Class,311,95.0,89.0,12.3,24,High Performer,88.0
+STU1178,10,Competitive Programming,FD Code Academy Offline Class,266,85.0,87.0,9.8,28,On Track,78.0
+STU1179,9,Python Foundation,AI-Assisted Learning,82,74.0,73.0,8.8,12,On Track,78.0
+STU1180,11,AI & Machine Learning,AI-Assisted Learning,178,67.0,78.0,10.8,2,On Track,78.0
+STU1181,9,Database,FD Code Academy Offline Class,340,97.0,96.0,12.7,35,High Performer,88.0
+STU1182,12,Competitive Programming,FD Code Academy Online Class,117,95.0,74.0,3.8,7,On Track,75.0
+STU1183,4,Python Foundation,AI-Assisted Learning,5,42.0,38.0,1.5,0,Needs Support,70.0
+STU1184,12,AI & Machine Learning,YouTube Video Tutorial,36,39.0,33.0,1.8,5,Needs Support,45.0
+STU1185,12,Linux,AI-Assisted Learning,269,72.0,74.0,11.1,3,On Track,78.0
+STU1186,11,AI & Machine Learning,Peer Study Group,154,66.0,67.0,8.0,17,On Track,65.0
+STU1187,Gap Year,Web Development,AI-Assisted Learning,24,39.0,62.0,1.4,2,Needs Support,70.0
+STU1188,9,Web Development,AI-Assisted Learning,66,52.0,45.0,3.5,2,Needs Support,70.0
+STU1189,9,AI & Machine Learning,FD Code Academy Online Class,185,81.0,88.0,7.5,27,On Track,75.0
+STU1190,9,Competitive Programming,FD Code Academy Offline Class,182,85.0,87.0,7.4,14,On Track,78.0
+STU1191,11,Competitive Programming,Peer Study Group,51,55.0,34.0,2.2,24,Needs Support,50.0
+STU1192,11,Competitive Programming,FD Code Academy Offline Class,193,88.0,87.0,10.1,14,On Track,78.0
+STU1193,4,Python Foundation,Peer Study Group,25,41.0,42.0,2.3,20,Needs Support,50.0
+STU1194,11,Cyber Security,AI-Assisted Learning,101,57.0,76.0,7.2,2,On Track,78.0
+STU1195,12,Database,FD Code Academy Offline Class,324,88.0,100.0,11.2,54,High Performer,88.0
+STU1196,6,Competitive Programming,Peer Study Group,65,63.0,54.0,2.5,17,Needs Support,52.3
+STU1197,12,AI & Machine Learning,FD Code Academy Online Class,205,67.0,73.0,6.8,21,On Track,75.0
+STU1198,8,Linux,YouTube Video Tutorial,340,94.0,73.0,15.5,6,High Performer,82.0
+STU1199,7,Python Foundation,AI-Assisted Learning,5,59.0,55.0,1.2,3,Needs Support,70.0
+STU1200,10,Database,AI-Assisted Learning,104,57.0,61.0,4.8,1,Needs Support,70.0
+STU1201,11,Cyber Security,FD Code Academy Online Class,225,92.0,88.0,10.3,17,High Performer,86.0
+STU1202,11,Web Development,FD Code Academy Offline Class,225,87.0,82.0,8.4,19,On Track,84.1
+STU1203,8,Olympiad,FD Code Academy Offline Class,279,100.0,95.0,9.3,53,High Performer,88.0
+STU1204,10,Cyber Security,FD Code Academy Offline Class,137,84.0,92.0,6.2,30,On Track,78.0
+STU1205,12,Data Science,AI-Assisted Learning,82,64.0,74.0,5.5,3,On Track,78.0
+STU1206,10,Database,Peer Study Group,68,61.0,66.0,2.3,29,On Track,65.0
+STU1207,11,Database,Peer Study Group,46,73.0,67.0,2.4,20,On Track,65.0
+STU1208,10,Competitive Programming,AI-Assisted Learning,229,65.0,69.0,11.3,3,On Track,78.0
+STU1209,11,Cyber Security,FD Code Academy Online Class,309,100.0,100.0,10.2,32,High Performer,92.2
+STU1210,8,Web Development,FD Code Academy Offline Class,181,94.0,97.0,9.2,45,High Performer,88.0
+STU1211,9,Olympiad,FD Code Academy Online Class,132,79.0,66.0,5.2,27,On Track,75.0
+STU1212,9,Web Development,YouTube Video Tutorial,340,92.0,93.0,15.4,3,High Performer,92.0
+STU1213,7,Python Foundation,FD Code Academy Offline Class,94,67.0,78.0,7.0,11,On Track,78.0
+STU1214,12,University Preparation,AI-Assisted Learning,85,48.0,49.0,4.7,6,Needs Support,70.0
+STU1215,11,University Preparation,YouTube Video Tutorial,126,69.0,53.0,8.0,8,On Track,62.0
+STU1216,12,Data Science,AI-Assisted Learning,237,62.0,78.0,10.7,0,On Track,78.0
+STU1217,7,Python Foundation,FD Code Academy Offline Class,219,93.0,92.0,8.2,26,High Performer,88.0
+STU1218,12,Olympiad,FD Code Academy Online Class,295,100.0,87.0,9.2,22,High Performer,86.0
+STU1219,11,AI & Machine Learning,Peer Study Group,49,55.0,36.0,2.8,16,Needs Support,50.0
+STU1220,8,Competitive Programming,FD Code Academy Offline Class,314,100.0,90.0,11.4,40,High Performer,88.7
+STU1221,12,University Preparation,YouTube Video Tutorial,56,61.0,72.0,3.2,5,On Track,62.0
+STU1222,11,University Preparation,FD Code Academy Offline Class,274,96.0,96.0,11.3,26,High Performer,88.0
+STU1223,8,Data Science,AI-Assisted Learning,233,,62.0,11.3,1,On Track,78.0
+STU1224,10,Database,FD Code Academy Offline Class,238,100.0,95.0,12.8,24,High Performer,88.0
+STU1225,Gap Year,AI & Machine Learning,AI-Assisted Learning,174,73.0,61.0,7.7,8,On Track,78.0
+STU1226,8,Web Development,FD Code Academy Offline Class,121,85.0,89.0,4.7,26,On Track,78.0
+STU1227,12,Data Science,FD Code Academy Offline Class,246,80.0,69.0,9.4,38,On Track,78.0
+STU1228,11,Web Development,YouTube Video Tutorial,184,62.0,61.0,7.2,1,On Track,62.0
+STU1229,7,Python Foundation,Peer Study Group,58,57.0,73.0,5.4,15,On Track,65.0
+STU1230,11,AI & Machine Learning,YouTube Video Tutorial,79,77.0,55.0,3.4,7,On Track,62.0
+STU1231,5,Python Foundation,FD Code Academy Offline Class,225,77.0,80.0,9.2,29,On Track,78.0
+STU1232,9,Competitive Programming,AI-Assisted Learning,121,59.0,65.0,4.1,5,Needs Support,70.0
+STU1233,7,Competitive Programming,FD Code Academy Offline Class,248,95.0,89.0,8.8,21,High Performer,88.0
+STU1234,10,Cyber Security,FD Code Academy Online Class,218,84.0,73.0,8.6,9,On Track,75.0
+STU1235,9,Web Development,AI-Assisted Learning,11,45.0,53.0,1.9,0,Needs Support,70.0
+STU1236,9,Competitive Programming,AI-Assisted Learning,84,73.0,65.0,4.9,10,On Track,78.0
+STU1237,11,Data Science,FD Code Academy Offline Class,266,89.0,90.0,8.7,35,High Performer,88.0
+STU1238,11,AI & Machine Learning,AI-Assisted Learning,181,53.0,61.0,6.2,6,Needs Support,70.0
+STU1239,12,Database,Peer Study Group,43,55.0,52.0,1.6,32,Needs Support,50.0
+STU1240,12,University Preparation,YouTube Video Tutorial,68,69.0,51.0,3.0,8,On Track,62.0
+STU1241,10,Web Development,FD Code Academy Offline Class,221,98.0,95.0,9.8,24,High Performer,88.0
+STU1242,11,University Preparation,FD Code Academy Online Class,148,80.0,68.0,6.2,15,On Track,75.0
+STU1243,12,Competitive Programming,AI-Assisted Learning,340,87.0,84.0,11.9,9,High Performer,93.0
+STU1244,12,Data Science,FD Code Academy Online Class,126,93.0,80.0,4.2,9,On Track,75.0
+STU1245,9,Python Foundation,FD Code Academy Online Class,187,76.0,71.0,8.1,23,On Track,75.0
+STU1246,7,Database,YouTube Video Tutorial,307,86.0,83.0,13.7,2,High Performer,86.3
+STU1247,10,Competitive Programming,FD Code Academy Online Class,220,95.0,77.0,7.6,11,On Track,75.0
+STU1248,10,AI & Machine Learning,YouTube Video Tutorial,37,59.0,39.0,2.1,4,Needs Support,45.0
+STU1249,11,AI & Machine Learning,FD Code Academy Offline Class,178,87.0,71.0,5.5,15,On Track,78.0
+STU1250,12,Data Science,YouTube Video Tutorial,41,71.0,67.0,2.2,10,On Track,62.0
+STU1251,8,Linux,YouTube Video Tutorial,118,82.0,61.0,7.5,2,On Track,62.0
+STU1252,8,Python Foundation,YouTube Video Tutorial,100,68.0,51.0,7.4,7,On Track,62.0
+STU1253,4,Python Foundation,AI-Assisted Learning,90,47.0,54.0,6.1,3,On Track,78.0
+STU1254,9,Linux,FD Code Academy Online Class,441,77.0,87.0,4.1,57,On Track,94.6
+STU1255,11,Competitive Programming,YouTube Video Tutorial,67,48.0,46.0,1.7,1,Needs Support,45.0
+STU1256,7,Database,FD Code Academy Offline Class,130,89.0,70.0,6.3,19,On Track,78.0
+STU1257,11,Linux,AI-Assisted Learning,54,39.0,50.0,4.8,8,Needs Support,70.0
+STU1258,7,Python Foundation,FD Code Academy Offline Class,292,88.0,81.0,11.3,25,High Performer,88.0
+STU1259,11,University Preparation,YouTube Video Tutorial,304,78.0,82.0,14.4,5,High Performer,85.7
+STU1260,10,Database,AI-Assisted Learning,340,88.0,93.0,12.3,4,High Performer,96.5
+STU1261,12,Linux,FD Code Academy Online Class,219,84.0,93.0,9.5,28,High Performer,86.0
+STU1262,9,Olympiad,YouTube Video Tutorial,87,69.0,66.0,4.5,7,On Track,62.0
+STU1263,9,Data Science,Peer Study Group,49,70.0,72.0,3.0,31,On Track,65.0
+STU1264,9,Python Foundation,FD Code Academy Online Class,63,62.0,69.0,3.4,14,On Track,75.0
+STU1265,11,Web Development,FD Code Academy Online Class,209,86.0,96.0,8.3,22,High Performer,86.0
+STU1266,10,Data Science,AI-Assisted Learning,179,67.0,61.0,10.6,4,On Track,78.0
+STU1267,11,Cyber Security,FD Code Academy Offline Class,166,80.0,83.0,6.0,28,On Track,78.0
+STU1268,9,Olympiad,AI-Assisted Learning,75,81.0,79.0,4.7,11,On Track,78.0
+STU1269,9,Olympiad,FD Code Academy Online Class,295,100.0,94.0,8.1,14,High Performer,86.0
+STU1270,9,Data Science,YouTube Video Tutorial,44,31.0,57.0,1.6,5,Needs Support,45.0
+STU1271,12,Database,AI-Assisted Learning,101,65.0,77.0,7.0,5,On Track,78.0
+STU1272,12,Data Science,YouTube Video Tutorial,148,74.0,60.0,8.1,2,On Track,62.0
+STU1273,6,Python Foundation,FD Code Academy Online Class,130,85.0,80.0,5.9,18,On Track,75.0
+STU1274,9,Olympiad,FD Code Academy Offline Class,162,79.0,81.0,5.7,27,On Track,78.0
+STU1275,Gap Year,University Preparation,YouTube Video Tutorial,340,84.0,82.0,13.8,8,High Performer,82.0
+STU1276,5,Python Foundation,FD Code Academy Offline Class,144,78.0,67.0,,30,On Track,78.0
+STU1277,11,Database,YouTube Video Tutorial,54,82.0,72.0,3.7,1,On Track,62.0
+STU1278,11,Linux,YouTube Video Tutorial,66,68.0,74.0,4.1,0,On Track,62.0
+STU1279,10,Data Science,FD Code Academy Online Class,207,84.0,71.0,8.9,29,On Track,75.0
+STU1280,11,AI & Machine Learning,AI-Assisted Learning,57,56.0,49.0,2.8,8,Needs Support,70.0
+STU1281,7,Olympiad,FD Code Academy Offline Class,202,84.0,79.0,8.4,34,On Track,78.0
+STU1282,9,Database,FD Code Academy Online Class,162,85.0,64.0,6.7,12,On Track,75.0
+STU1283,7,Linux,FD Code Academy Offline Class,185,70.0,75.0,7.8,10,On Track,78.0
+STU1284,9,Database,YouTube Video Tutorial,21,46.0,,1.3,5,Needs Support,45.0
+STU1285,12,Linux,YouTube Video Tutorial,102,66.0,63.0,7.0,0,On Track,62.0
+STU1286,9,Web Development,Peer Study Group,127,61.0,76.0,5.2,33,On Track,65.0
+STU1287,10,Competitive Programming,YouTube Video Tutorial,182,59.0,65.0,6.1,6,On Track,62.0
+STU1288,10,Python Foundation,FD Code Academy Offline Class,219,83.0,85.0,9.4,46,High Performer,88.0
+STU1289,9,Python Foundation,FD Code Academy Online Class,193,82.0,81.0,9.5,19,High Performer,86.0
+STU1290,10,Data Science,YouTube Video Tutorial,46,63.0,40.0,2.6,1,Needs Support,45.0
+STU1291,10,Linux,YouTube Video Tutorial,42,71.0,77.0,3.5,0,On Track,62.0
+STU1292,10,Python Foundation,FD Code Academy Offline Class,133,89.0,86.0,9.3,43,High Performer,88.0
+STU1293,6,Python Foundation,FD Code Academy Offline Class,313,94.0,83.0,13.9,31,High Performer,88.0
+STU1294,12,AI & Machine Learning,YouTube Video Tutorial,15,46.0,28.0,1.4,1,Needs Support,45.0
+STU1295,Gap Year,Database,FD Code Academy Offline Class,286,97.0,89.0,8.9,56,High Performer,88.0
+STU1296,12,Data Science,YouTube Video Tutorial,26,65.0,58.0,0.8,2,Needs Support,45.0
+STU1297,10,Olympiad,YouTube Video Tutorial,92,56.0,52.0,2.9,0,Needs Support,45.0
+STU1298,8,Linux,Peer Study Group,122,63.0,68.0,5.3,29,On Track,65.0
+STU1299,9,AI & Machine Learning,AI-Assisted Learning,163,46.0,46.0,5.8,4,Needs Support,70.0
+STU1300,12,Cyber Security,AI-Assisted Learning,127,49.0,70.0,5.8,0,Needs Support,70.0
+STU1301,Gap Year,AI & Machine Learning,YouTube Video Tutorial,158,75.0,51.0,7.5,1,On Track,62.0
+STU1302,12,Cyber Security,FD Code Academy Offline Class,277,76.0,80.0,9.7,28,On Track,78.0
+STU1303,11,University Preparation,Peer Study Group,69,54.0,45.0,3.2,21,Needs Support,50.0
+STU1304,11,University Preparation,AI-Assisted Learning,117,75.0,84.0,6.3,10,On Track,80.7
+STU1305,10,Olympiad,YouTube Video Tutorial,340,93.0,79.0,15.3,8,High Performer,84.9
+STU1306,7,Olympiad,YouTube Video Tutorial,260,91.0,85.0,8.3,5,High Performer,82.0
+STU1307,12,Cyber Security,FD Code Academy Offline Class,136,87.0,83.0,5.2,12,On Track,78.0
+STU1004,8,Competitive Programming,YouTube Video Tutorial,106,64.0,80.0,5.2,0,On Track,62.0
+STU1309,4,Python Foundation,YouTube Video Tutorial,119,53.0,64.0,7.6,7,On Track,62.0
+STU1310,12,Database,Peer Study Group,93,72.0,57.0,5.7,38,On Track,65.0
+STU1311,12,University Preparation,FD Code Academy Online Class,135,69.0,,7.0,25,On Track,75.0
+STU1312,12,Competitive Programming,YouTube Video Tutorial,115,70.0,70.0,4.4,5,On Track,62.0
+STU1313,11,Olympiad,FD Code Academy Online Class,141,87.0,64.0,7.5,23,On Track,75.0
+STU1314,8,Competitive Programming,AI-Assisted Learning,173,78.0,74.0,8.8,0,On Track,78.0
+STU1315,12,Competitive Programming,YouTube Video Tutorial,180,80.0,79.0,6.2,3,On Track,62.0
+STU1316,9,Python Foundation,AI-Assisted Learning,110,58.0,60.0,7.2,3,On Track,78.0
+STU1317,12,Cyber Security,AI-Assisted Learning,99,43.0,60.0,3.5,7,Needs Support,70.0
+STU1318,9,Data Science,AI-Assisted Learning,180,68.0,65.0,7.8,6,On Track,78.0
+STU1319,12,University Preparation,FD Code Academy Offline Class,142,86.0,77.0,6.0,25,On Track,79.9
+STU1320,9,Olympiad,FD Code Academy Online Class,235,72.0,76.0,7.8,17,On Track,75.0
+STU1321,10,Olympiad,FD Code Academy Offline Class,249,97.0,100.0,9.7,42,High Performer,88.0
+STU1322,5,Python Foundation,FD Code Academy Offline Class,120,80.0,70.0,5.5,39,On Track,78.0
+STU1323,10,Data Science,AI-Assisted Learning,200,75.0,67.0,8.9,11,On Track,80.5
+STU1324,10,Cyber Security,AI-Assisted Learning,142,59.0,72.0,5.8,1,Needs Support,70.0
+STU1325,11,University Preparation,AI-Assisted Learning,69,64.0,70.0,4.7,10,On Track,78.0
+STU1326,6,Python Foundation,FD Code Academy Online Class,162,79.0,93.0,7.7,20,High Performer,86.0
+STU1327,8,Python Foundation,FD Code Academy Offline Class,237,89.0,84.0,13.0,51,High Performer,88.0
+STU1328,7,Web Development,Peer Study Group,135,60.0,74.0,8.2,20,On Track,65.0
+STU1329,8,Linux,YouTube Video Tutorial,28,39.0,58.0,1.3,2,Needs Support,45.0
+STU1330,8,Python Foundation,FD Code Academy Offline Class,88,67.0,75.0,5.4,36,On Track,78.0
+STU1331,11,Linux,YouTube Video Tutorial,16,36.0,49.0,0.7,7,Needs Support,45.0
+STU1332,11,University Preparation,FD Code Academy Offline Class,178,92.0,99.0,8.8,13,High Performer,88.0
+STU1333,11,Cyber Security,AI-Assisted Learning,64,44.0,56.0,3.5,2,Needs Support,70.0
+STU1334,8,Python Foundation,FD Code Academy Online Class,87,65.0,77.0,3.8,13,On Track,75.0
+STU1335,10,Database,AI-Assisted Learning,101,72.0,60.0,4.2,6,On Track,78.0
+STU1336,11,Cyber Security,FD Code Academy Offline Class,170,83.0,90.0,4.8,25,On Track,78.0
+STU1337,10,Database,AI-Assisted Learning,193,90.0,87.0,11.7,8,High Performer,90.0
+STU1338,11,Data Science,FD Code Academy Offline Class,126,76.0,70.0,6.8,19,On Track,78.0
+STU1339,11,Web Development,FD Code Academy Offline Class,141,82.0,77.0,7.2,19,On Track,78.0
+STU1340,7,Olympiad,FD Code Academy Offline Class,268,96.0,85.0,8.2,15,On Track,78.0
+STU1341,12,Competitive Programming,YouTube Video Tutorial,112,69.0,80.0,4.9,8,On Track,62.0
+STU1342,11,Cyber Security,Peer Study Group,92,64.0,62.0,6.0,30,On Track,65.0
+STU1343,10,Competitive Programming,FD Code Academy Offline Class,200,89.0,88.0,7.4,41,On Track,78.1
+STU1344,7,Linux,Peer Study Group,422,78.0,57.0,24.7,94,On Track,70.9
+STU1345,11,AI & Machine Learning,AI-Assisted Learning,61,70.0,63.0,3.4,11,On Track,78.0
+STU1346,12,Web Development,FD Code Academy Offline Class,138,75.0,88.0,5.8,20,On Track,78.0
+STU1347,12,Cyber Security,FD Code Academy Online Class,197,100.0,98.0,9.4,18,High Performer,86.0
+STU1348,11,Web Development,AI-Assisted Learning,78,65.0,57.0,5.8,10,On Track,78.0
+STU1349,12,Olympiad,FD Code Academy Offline Class,291,100.0,86.0,12.8,30,High Performer,88.0
+STU1350,6,Python Foundation,FD Code Academy Offline Class,129,68.0,80.0,5.3,20,On Track,78.0
+STU1351,12,Data Science,FD Code Academy Offline Class,302,91.0,100.0,14.2,13,High Performer,88.0
+STU1352,Gap Year,AI & Machine Learning,YouTube Video Tutorial,329,100.0,78.0,15.2,11,High Performer,82.0
+STU1353,10,Linux,YouTube Video Tutorial,51,42.0,63.0,1.9,3,Needs Support,45.0
+STU1354,9,Linux,YouTube Video Tutorial,59,35.0,57.0,1.4,3,Needs Support,45.0
+STU1355,12,Data Science,FD Code Academy Offline Class,161,78.0,84.0,8.3,35,On Track,78.0
+STU1356,11,Competitive Programming,Peer Study Group,60,69.0,72.0,2.9,27,On Track,65.0
+STU1357,9,Data Science,AI-Assisted Learning,136,53.0,60.0,6.2,5,Needs Support,70.0
+STU1358,11,Cyber Security,FD Code Academy Online Class,214,86.0,99.0,10.8,33,High Performer,86.0
+STU1359,12,University Preparation,Peer Study Group,23,42.0,31.0,2.9,20,Needs Support,50.0
+STU1360,8,Python Foundation,YouTube Video Tutorial,43,64.0,62.0,3.6,8,On Track,62.0
+STU1361,8,Web Development,FD Code Academy Online Class,187,83.0,96.0,8.6,32,High Performer,86.0
+STU1362,8,Database,AI-Assisted Learning,126,77.0,78.0,10.5,11,On Track,78.0
+STU1363,11,Linux,Peer Study Group,102,76.0,77.0,7.4,34,On Track,65.0
+STU1364,11,AI & Machine Learning,FD Code Academy Offline Class,340,100.0,94.0,11.2,32,High Performer,88.0
+STU1365,12,Data Science,YouTube Video Tutorial,81,63.0,65.0,3.8,4,On Track,62.0
+STU1366,10,Olympiad,FD Code Academy Offline Class,188,85.0,74.0,5.7,37,On Track,78.0
+STU1367,10,Python Foundation,YouTube Video Tutorial,36,74.0,65.0,2.7,1,On Track,62.0
+STU1368,12,University Preparation,YouTube Video Tutorial,46,45.0,35.0,1.9,2,Needs Support,45.0
+STU1369,11,University Preparation,AI-Assisted Learning,59,53.0,49.0,1.9,4,Needs Support,70.0
+STU1370,9,Data Science,FD Code Academy Offline Class,208,90.0,71.0,7.2,21,On Track,78.0
+STU1371,9,Python Foundation,FD Code Academy Offline Class,168,78.0,76.0,6.5,23,On Track,78.0
+STU1372,Gap Year,AI & Machine Learning,FD Code Academy Online Class,285,93.0,89.0,10.1,28,High Performer,86.0
+STU1373,10,Database,FD Code Academy Online Class,80,83.0,68.0,3.5,17,On Track,75.0
+STU1374,7,Python Foundation,AI-Assisted Learning,20,46.0,40.0,1.4,7,Needs Support,70.0
+STU1375,11,Competitive Programming,FD Code Academy Offline Class,313,91.0,91.0,14.0,30,High Performer,89.1
+STU1376,12,Web Development,FD Code Academy Offline Class,141,90.0,99.0,8.3,21,On Track,78.0
+STU1377,10,Web Development,YouTube Video Tutorial,77,59.0,58.0,3.1,1,Needs Support,45.0
+STU1378,Gap Year,Cyber Security,Peer Study Group,76,76.0,84.0,3.4,32,On Track,65.0
+STU1379,7,Web Development,FD Code Academy Online Class,155,71.0,74.0,8.0,9,On Track,75.0
+STU1380,6,Python Foundation,FD Code Academy Online Class,189,93.0,90.0,9.2,13,High Performer,86.0
+STU1381,11,University Preparation,AI-Assisted Learning,116,63.0,62.0,7.8,4,On Track,78.0
+STU1382,8,Python Foundation,FD Code Academy Online Class,116,75.0,66.0,6.9,17,On Track,75.0
+STU1383,6,Competitive Programming,FD Code Academy Offline Class,169,83.0,87.0,7.8,38,On Track,78.0
+STU1384,10,Web Development,FD Code Academy Online Class,137,77.0,77.0,7.8,21,On Track,75.0
+STU1385,11,Linux,Peer Study Group,27,51.0,59.0,0.8,13,Needs Support,50.0
+STU1386,7,Linux,YouTube Video Tutorial,31,49.0,24.0,1.1,2,Needs Support,45.0
+STU1387,12,University Preparation,YouTube Video Tutorial,231,88.0,84.0,11.4,6,High Performer,82.0
+STU1388,11,Web Development,Peer Study Group,42,42.0,44.0,2.4,22,Needs Support,50.0
+STU1389,12,Cyber Security,FD Code Academy Online Class,93,70.0,85.0,3.6,11,On Track,75.0
+STU1390,10,Competitive Programming,AI-Assisted Learning,46,48.0,51.0,2.7,3,Needs Support,70.0
+STU1391,10,Python Foundation,AI-Assisted Learning,77,46.0,45.0,4.7,7,Needs Support,70.0
+STU1392,8,AI & Machine Learning,FD Code Academy Online Class,143,88.0,73.0,8.4,27,On Track,75.0
+STU1393,8,Python Foundation,FD Code Academy Offline Class,275,82.0,88.0,10.8,52,High Performer,88.0
+STU1394,6,Python Foundation,YouTube Video Tutorial,19,46.0,50.0,0.9,2,Needs Support,45.0
+STU1395,10,AI & Machine Learning,Peer Study Group,123,68.0,74.0,5.2,33,On Track,65.0
+STU1396,8,Linux,FD Code Academy Online Class,151,77.0,69.0,8.5,7,On Track,75.0
+STU1397,10,Database,AI-Assisted Learning,316,88.0,90.0,13.2,10,High Performer,97.4
+STU1398,10,Cyber Security,YouTube Video Tutorial,120,77.0,64.0,4.8,4,On Track,62.0
+STU1399,9,Olympiad,FD Code Academy Online Class,276,92.0,74.0,8.7,8,On Track,75.0
+STU1400,12,Cyber Security,YouTube Video Tutorial,30,48.0,39.0,0.6,4,Needs Support,45.0
+STU1401,11,Data Science,YouTube Video Tutorial,216,84.0,77.0,7.8,3,High Performer,82.0
+STU1402,10,University Preparation,FD Code Academy Online Class,121,81.0,79.0,6.2,13,On Track,75.0
+STU1403,7,Olympiad,FD Code Academy Online Class,173,90.0,71.0,6.0,26,On Track,75.0
+STU1404,10,Cyber Security,FD Code Academy Offline Class,233,90.0,91.0,8.7,13,On Track,78.0
+STU1405,11,AI & Machine Learning,Peer Study Group,74,62.0,35.0,2.5,16,Needs Support,50.0
+STU1406,11,Cyber Security,FD Code Academy Online Class,291,82.0,91.0,10.2,26,High Performer,86.0
+STU1407,8,Olympiad,FD Code Academy Online Class,191,79.0,86.0,9.2,8,On Track,75.0
+STU1408,11,Cyber Security,AI-Assisted Learning,113,50.0,58.0,4.3,8,Needs Support,70.0
+STU1409,11,Web Development,YouTube Video Tutorial,160,77.0,97.0,7.8,10,High Performer,82.0
+STU1410,12,AI & Machine Learning,FD Code Academy Online Class,150,89.0,70.0,5.8,18,On Track,75.0
+STU1411,12,AI & Machine Learning,Peer Study Group,108,62.0,58.0,8.0,24,On Track,65.0
+STU1412,12,Cyber Security,FD Code Academy Offline Class,255,92.0,94.0,10.6,28,High Performer,88.0
+STU1413,9,Olympiad,FD Code Academy Online Class,165,80.0,69.0,5.5,23,On Track,75.0
+STU1414,7,Database,AI-Assisted Learning,109,73.0,63.0,9.8,6,On Track,78.0
+STU1415,8,AI & Machine Learning,YouTube Video Tutorial,100,73.0,58.0,4.5,5,On Track,62.0
+STU1416,10,AI & Machine Learning,YouTube Video Tutorial,118,66.0,58.0,7.0,2,On Track,62.0
+STU1417,11,Olympiad,Peer Study Group,95,60.0,60.0,3.0,20,Needs Support,50.0
+STU1418,12,Cyber Security,Peer Study Group,123,81.0,63.0,6.2,46,On Track,66.7
+STU1419,Gap Year,Cyber Security,Peer Study Group,57,65.0,63.0,3.0,36,On Track,65.0
+STU1420,9,Olympiad,YouTube Video Tutorial,267,93.0,84.0,8.4,0,High Performer,82.0
+STU1421,7,Linux,AI-Assisted Learning,80,53.0,69.0,6.3,9,On Track,78.0
+STU1422,9,Olympiad,AI-Assisted Learning,41,66.0,57.0,1.9,2,Needs Support,70.0
+STU1423,10,Cyber Security,AI-Assisted Learning,197,77.0,69.0,9.4,13,On Track,78.0
+STU1424,10,Olympiad,FD Code Academy Offline Class,233,89.0,83.0,9.2,14,On Track,78.0
+STU1425,Gap Year,Linux,YouTube Video Tutorial,49,75.0,60.0,3.0,3,On Track,62.0
+STU1426,8,Cyber Security,FD Code Academy Offline Class,249,90.0,100.0,8.9,43,High Performer,88.0
+STU1427,10,Competitive Programming,FD Code Academy Offline Class,340,92.0,75.0,10.5,31,On Track,81.7
+STU1428,11,AI & Machine Learning,AI-Assisted Learning,340,84.0,86.0,,8,High Performer,99.6
+STU1429,9,Database,YouTube Video Tutorial,33,33.0,27.0,2.6,4,Needs Support,45.0
+STU1430,11,Data Science,AI-Assisted Learning,92,82.0,63.0,5.0,3,On Track,78.0
+STU1431,11,AI & Machine Learning,YouTube Video Tutorial,81,67.0,78.0,4.0,1,On Track,62.0
+STU1432,Gap Year,Data Science,Peer Study Group,26,43.0,42.0,1.6,21,Needs Support,50.0
+STU1433,11,University Preparation,Peer Study Group,102,78.0,57.0,4.5,35,On Track,65.0
+STU1434,10,Olympiad,YouTube Video Tutorial,340,100.0,100.0,15.4,9,High Performer,89.8
+STU1435,Gap Year,University Preparation,Peer Study Group,165,68.0,47.0,6.0,22,On Track,65.0
+STU1436,11,Data Science,YouTube Video Tutorial,67,76.0,61.0,3.0,8,On Track,62.0
+STU1437,11,Database,Peer Study Group,36,77.0,57.0,2.1,39,On Track,65.0
+STU1438,10,Data Science,FD Code Academy Offline Class,132,76.0,85.0,7.0,40,On Track,78.0
+STU1439,12,University Preparation,YouTube Video Tutorial,27,74.0,63.0,2.6,4,On Track,62.0
+STU1440,9,AI & Machine Learning,YouTube Video Tutorial,120,75.0,75.0,8.2,0,On Track,62.0
+STU1441,11,Linux,AI-Assisted Learning,52,48.0,64.0,4.0,6,Needs Support,70.0
+STU1442,9,Cyber Security,FD Code Academy Offline Class,224,88.0,94.0,8.8,31,On Track,78.0
+STU1443,11,Data Science,FD Code Academy Online Class,138,89.0,65.0,4.8,16,On Track,75.0
+STU1444,6,Python Foundation,Peer Study Group,117,66.0,54.0,7.2,41,On Track,65.0
+STU1445,9,Database,FD Code Academy Online Class,110,88.0,73.0,4.6,22,On Track,75.0
+STU1446,12,Data Science,AI-Assisted Learning,38,52.0,42.0,2.0,8,Needs Support,70.0
+STU1447,12,Olympiad,YouTube Video Tutorial,58,67.0,42.0,2.1,0,Needs Support,45.0
+STU1448,12,AI & Machine Learning,FD Code Academy Online Class,340,95.0,89.0,11.7,30,High Performer,86.0
+STU1449,9,Competitive Programming,FD Code Academy Online Class,262,75.0,87.0,8.1,29,On Track,75.0
+STU1450,11,Competitive Programming,YouTube Video Tutorial,207,100.0,93.0,8.8,8,High Performer,82.0
+STU1451,12,Database,FD Code Academy Offline Class,136,90.0,70.0,8.0,9,On Track,78.0
+STU1452,9,Python Foundation,YouTube Video Tutorial,59,74.0,54.0,3.7,1,On Track,62.0
+STU1453,9,Web Development,Peer Study Group,5,53.0,42.0,1.1,16,Needs Support,50.0
+STU1454,9,Competitive Programming,YouTube Video Tutorial,194,57.0,77.0,6.6,9,On Track,62.0
+STU1455,11,Competitive Programming,FD Code Academy Offline Class,224,85.0,74.0,9.0,16,On Track,78.0
+STU1456,8,Web Development,Peer Study Group,11,59.0,51.0,1.1,17,Needs Support,50.0
+STU1457,12,AI & Machine Learning,FD Code Academy Online Class,190,84.0,70.0,7.2,19,On Track,75.0
+STU1458,12,Cyber Security,FD Code Academy Online Class,204,68.0,79.0,8.0,20,On Track,75.0
+STU1459,10,Olympiad,YouTube Video Tutorial,225,100.0,87.0,7.8,6,High Performer,83.2
+STU1460,11,Database,AI-Assisted Learning,54,62.0,55.0,3.7,2,Needs Support,70.0
+STU1461,Gap Year,AI & Machine Learning,YouTube Video Tutorial,72,36.0,49.0,3.1,2,Needs Support,45.0
+STU1462,10,AI & Machine Learning,YouTube Video Tutorial,28,47.0,41.0,2.2,1,Needs Support,45.0
+STU1463,12,Database,FD Code Academy Offline Class,340,99.0,91.0,12.9,47,High Performer,88.0
+STU1464,11,AI & Machine Learning,YouTube Video Tutorial,50,37.0,61.0,2.8,3,Needs Support,45.0
+STU1465,10,AI & Machine Learning,YouTube Video Tutorial,25,42.0,59.0,1.1,2,Needs Support,45.0
+STU1466,7,Python Foundation,AI-Assisted Learning,69,41.0,60.0,4.1,3,Needs Support,70.0
+STU1467,6,Competitive Programming,FD Code Academy Offline Class,340,93.0,100.0,13.1,50,High Performer,91.5
+STU1468,9,Web Development,FD Code Academy Offline Class,274,83.0,99.0,10.3,40,High Performer,88.8
+STU1469,Gap Year,Data Science,Peer Study Group,80,82.0,63.0,3.8,25,On Track,65.0
+STU1470,12,Database,FD Code Academy Online Class,128,69.0,85.0,6.0,25,On Track,75.0
+STU1471,9,Database,FD Code Academy Offline Class,91,86.0,84.0,4.7,19,On Track,78.0
+STU1472,11,Competitive Programming,YouTube Video Tutorial,51,45.0,46.0,2.3,3,Needs Support,45.0
+STU1473,12,AI & Machine Learning,YouTube Video Tutorial,150,66.0,48.0,5.8,6,On Track,62.0
+STU1474,6,Python Foundation,FD Code Academy Online Class,106,67.0,67.0,3.2,19,On Track,75.0
+STU1475,9,Python Foundation,YouTube Video Tutorial,54,65.0,65.0,5.5,8,On Track,62.0
+STU1476,9,Database,FD Code Academy Online Class,103,86.0,80.0,4.1,17,On Track,75.0
+STU1477,10,Python Foundation,Peer Study Group,18,37.0,47.0,1.1,16,Needs Support,50.0
+STU1478,11,Database,FD Code Academy Offline Class,140,88.0,84.0,4.4,19,On Track,78.0
+STU1479,10,Web Development,YouTube Video Tutorial,20,32.0,,0.8,1,Needs Support,45.0
+STU1480,12,Web Development,AI-Assisted Learning,13,53.0,57.0,1.4,3,Needs Support,70.0
+STU1481,7,Web Development,AI-Assisted Learning,23,42.0,65.0,2.5,8,Needs Support,70.0
+STU1482,10,Web Development,FD Code Academy Online Class,135,65.0,82.0,8.8,8,On Track,75.0
+STU1483,11,Web Development,YouTube Video Tutorial,112,73.0,66.0,6.8,0,On Track,62.0
+STU1484,11,Data Science,Peer Study Group,328,99.0,69.0,,44,High Performer,87.1
+STU1485,10,University Preparation,FD Code Academy Offline Class,313,88.0,93.0,11.1,17,High Performer,88.0
+STU1486,10,Database,YouTube Video Tutorial,249,94.0,84.0,12.2,7,High Performer,87.1
+STU1487,8,AI & Machine Learning,FD Code Academy Offline Class,217,81.0,81.0,7.2,20,On Track,78.0
+STU1488,Gap Year,University Preparation,AI-Assisted Learning,92,61.0,59.0,6.0,2,Needs Support,70.0
+STU1489,9,Olympiad,FD Code Academy Online Class,178,78.0,86.0,6.8,11,On Track,75.0
+STU1490,12,Data Science,FD Code Academy Online Class,271,91.0,87.0,8.3,16,High Performer,86.0
+STU1491,8,Python Foundation,AI-Assisted Learning,167,55.0,58.0,11.2,3,On Track,78.0
+STU1492,7,Python Foundation,Peer Study Group,38,41.0,33.0,2.9,20,Needs Support,50.0
+STU1493,10,University Preparation,AI-Assisted Learning,79,55.0,60.0,3.1,2,Needs Support,70.0
+STU1494,12,Database,AI-Assisted Learning,95,44.0,62.0,5.4,0,Needs Support,70.0
+STU1495,11,Data Science,FD Code Academy Online Class,253,100.0,94.0,8.2,37,High Performer,86.0
+STU1496,11,Web Development,AI-Assisted Learning,268,92.0,91.0,14.1,4,High Performer,95.2
+STU1497,8,Python Foundation,FD Code Academy Online Class,160,76.0,69.0,8.8,14,On Track,75.0
+STU1498,Gap Year,AI & Machine Learning,FD Code Academy Online Class,205,72.0,71.0,8.8,21,On Track,75.0
+STU1499,6,Python Foundation,AI-Assisted Learning,10,41.0,44.0,1.6,5,Needs Support,70.0
+STU1500,9,Competitive Programming,Peer Study Group,13,56.0,53.0,1.2,24,Needs Support,50.0
